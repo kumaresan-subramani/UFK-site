@@ -1,0 +1,45 @@
+{
+  "name": "@syncfusion/ej2-landing-page",
+  "version": "17.3.9",
+  "isBeta": false,
+  "description": "Essential JS 2 Landing Page",
+  "author": "Syncfusion Inc.",
+  "license": "SEE LICENSE IN license",
+  "dependencies": {
+    "@syncfusion/ej2-dropdowns": "*",
+    "@syncfusion/ej2-layouts": "^18.1.52",
+    "@syncfusion/ej2-lists": "*",
+    "@syncfusion/ej2-navigations": "*",
+    "@syncfusion/ej2-popups": "*",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/chai": "^3.4.28",
+    "@types/es6-promise": "0.0.28",
+    "@types/jasmine": "^2.2.29",
+    "@types/jasmine-ajax": "^3.1.27",
+    "@types/requirejs": "^2.1.26",
+    "browser-sync": "^2.18.13",
+    "es6-promise": "^3.2.1",
+    "gulp": "^3.9.1",
+    "gulp-gzip": "^1.4.0",
+    "gulp-print": "^2.0.1",
+    "gulp-s3-upload": "1.6.6",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.1.6",
+    "require-dir": "^0.3.2",
+    "requirejs": "^2.3.3",
+    "run-sequence": "^2.2.1",
+    "shelljs": "^0.7.8",
+    "typescript": "2.3.4",
+    "webpack-stream": "^4.0.0"
+  },
+  "scripts": {
+    "build": "gulp scripts && gulp bundle && gulp js-minify",
+    "ci-publish": "gulp publish"
+  }
+}

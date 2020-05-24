@@ -1,0 +1,6410 @@
+[
+    {
+        "path": ":theme/chart/line",
+        "name": "Line",
+        "order": "01",
+        "category": "Line Charts",
+        "data": {
+            "sample-name": "Line",
+            "data-path": "/:theme/chart/line"
+        },
+        "uid": "0",
+        "cName": "Chart",
+        "searchValue": "Chart Line"
+    },
+    {
+        "path": ":theme/chart/spline",
+        "name": "Spline",
+        "order": "01",
+        "category": "Line Charts",
+        "data": {
+            "sample-name": "Spline",
+            "data-path": "/:theme/chart/spline"
+        },
+        "uid": "1",
+        "cName": "Chart",
+        "searchValue": "Chart Spline"
+    },
+    {
+        "path": ":theme/chart/step-line",
+        "name": "Step Line",
+        "order": "01",
+        "category": "Line Charts",
+        "data": {
+            "sample-name": "Step Line",
+            "data-path": "/:theme/chart/step-line"
+        },
+        "uid": "2",
+        "cName": "Chart",
+        "searchValue": "Chart Step Line"
+    },
+    {
+        "path": ":theme/chart/dashed-line",
+        "name": "Dashed Line",
+        "order": "01",
+        "category": "Line Charts",
+        "data": {
+            "sample-name": "Dashed Line",
+            "data-path": "/:theme/chart/dashed-line"
+        },
+        "uid": "3",
+        "cName": "Chart",
+        "searchValue": "Chart Dashed Line"
+    },
+    {
+        "path": ":theme/chart/inversed-spline",
+        "name": "Inversed Spline",
+        "order": "01",
+        "category": "Line Charts",
+        "data": {
+            "sample-name": "Inversed Spline",
+            "data-path": "/:theme/chart/inversed-spline"
+        },
+        "uid": "4",
+        "cName": "Chart",
+        "searchValue": "Chart Inversed Spline"
+    },
+    {
+        "path": ":theme/chart/line-segments",
+        "name": "Line Zone",
+        "order": "01",
+        "category": "Line Charts",
+        "data": {
+            "sample-name": "Line Zone",
+            "data-path": "/:theme/chart/line-segments"
+        },
+        "uid": "5",
+        "cName": "Chart",
+        "searchValue": "Chart Line Zone"
+    },
+    {
+        "path": ":theme/chart/line-multi-line",
+        "name": "Multi Colored Line",
+        "order": "01",
+        "category": "Line Charts",
+        "data": {
+            "sample-name": "Multi Colored Line",
+            "data-path": "/:theme/chart/line-multi-line"
+        },
+        "uid": "6",
+        "cName": "Chart",
+        "searchValue": "Chart Multi Colored Line"
+    },
+    {
+        "path": ":theme/chart/area",
+        "name": "Area",
+        "order": "02",
+        "category": "Area Charts",
+        "data": {
+            "sample-name": "Area",
+            "data-path": "/:theme/chart/area"
+        },
+        "uid": "7",
+        "cName": "Chart",
+        "searchValue": "Chart Area"
+    },
+    {
+        "path": ":theme/chart/spline-area",
+        "name": "Spline Area",
+        "order": "02",
+        "category": "Area Charts",
+        "data": {
+            "sample-name": "Spline Area",
+            "data-path": "/:theme/chart/spline-area"
+        },
+        "uid": "8",
+        "cName": "Chart",
+        "searchValue": "Chart Spline Area"
+    },
+    {
+        "path": ":theme/chart/step-area",
+        "name": "Step Area",
+        "order": "02",
+        "category": "Area Charts",
+        "data": {
+            "sample-name": "Step Area",
+            "data-path": "/:theme/chart/step-area"
+        },
+        "uid": "9",
+        "cName": "Chart",
+        "searchValue": "Chart Step Area"
+    },
+    {
+        "path": ":theme/chart/rangearea",
+        "name": "Range Area",
+        "order": "02",
+        "category": "Area Charts",
+        "data": {
+            "sample-name": "Range Area",
+            "data-path": "/:theme/chart/rangearea"
+        },
+        "uid": "10",
+        "cName": "Chart",
+        "searchValue": "Chart Range Area"
+    },
+    {
+        "path": ":theme/chart/stacked-area",
+        "name": "Stacked Area",
+        "order": "02",
+        "category": "Area Charts",
+        "data": {
+            "sample-name": "Stacked Area",
+            "data-path": "/:theme/chart/stacked-area"
+        },
+        "uid": "11",
+        "cName": "Chart",
+        "searchValue": "Chart Stacked Area"
+    },
+    {
+        "path": ":theme/chart/stacked-area100",
+        "name": "100% Stacked Area",
+        "order": "02",
+        "category": "Area Charts",
+        "data": {
+            "sample-name": "100% Stacked Area",
+            "data-path": "/:theme/chart/stacked-area100"
+        },
+        "uid": "12",
+        "cName": "Chart",
+        "searchValue": "Chart 100% Stacked Area"
+    },
+    {
+        "path": ":theme/chart/area-empty",
+        "name": "Area - Empty Points",
+        "order": "02",
+        "category": "Area Charts",
+        "data": {
+            "sample-name": "Area - Empty Points",
+            "data-path": "/:theme/chart/area-empty"
+        },
+        "uid": "13",
+        "cName": "Chart",
+        "searchValue": "Chart Area - Empty Points"
+    },
+    {
+        "path": ":theme/chart/area-segments",
+        "name": "Area Zone",
+        "order": "02",
+        "category": "Area Charts",
+        "data": {
+            "sample-name": "Area Zone",
+            "data-path": "/:theme/chart/area-segments"
+        },
+        "uid": "14",
+        "cName": "Chart",
+        "searchValue": "Chart Area Zone"
+    },
+    {
+        "path": ":theme/chart/column",
+        "name": "Column",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Column",
+            "data-path": "/:theme/chart/column"
+        },
+        "uid": "15",
+        "cName": "Chart",
+        "searchValue": "Chart Column"
+    },
+    {
+        "path": ":theme/chart/rounded-column",
+        "name": "Rounded Column",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Rounded Column",
+            "data-path": "/:theme/chart/rounded-column"
+        },
+        "uid": "16",
+        "cName": "Chart",
+        "searchValue": "Chart Rounded Column"
+    },
+    {
+        "path": ":theme/chart/column-placement",
+        "name": "Back to Back Column",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Back to Back Column",
+            "data-path": "/:theme/chart/column-placement"
+        },
+        "uid": "17",
+        "cName": "Chart",
+        "searchValue": "Chart Back to Back Column"
+    },
+    {
+        "path": ":theme/chart/range-column",
+        "name": "Range Column",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Range Column",
+            "data-path": "/:theme/chart/range-column"
+        },
+        "uid": "18",
+        "cName": "Chart",
+        "searchValue": "Chart Range Column"
+    },
+    {
+        "path": ":theme/chart/range-bar",
+        "name": "Inversed Range Column",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Inversed Range Column",
+            "data-path": "/:theme/chart/range-bar"
+        },
+        "uid": "19",
+        "cName": "Chart",
+        "searchValue": "Chart Inversed Range Column"
+    },
+    {
+        "path": ":theme/chart/bar",
+        "name": "Bar",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Bar",
+            "data-path": "/:theme/chart/bar"
+        },
+        "uid": "20",
+        "cName": "Chart",
+        "searchValue": "Chart Bar"
+    },
+    {
+        "path": ":theme/chart/stacked-column",
+        "name": "Stacked Column",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Stacked Column",
+            "data-path": "/:theme/chart/stacked-column"
+        },
+        "uid": "21",
+        "cName": "Chart",
+        "searchValue": "Chart Stacked Column"
+    },
+    {
+        "path": ":theme/chart/stacked-column100",
+        "name": "100% Stacked Column",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "100% Stacked Column",
+            "data-path": "/:theme/chart/stacked-column100"
+        },
+        "uid": "22",
+        "cName": "Chart",
+        "searchValue": "Chart 100% Stacked Column"
+    },
+    {
+        "path": ":theme/chart/stacked-bar",
+        "name": "Stacked Bar",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Stacked Bar",
+            "data-path": "/:theme/chart/stacked-bar"
+        },
+        "uid": "23",
+        "cName": "Chart",
+        "searchValue": "Chart Stacked Bar"
+    },
+    {
+        "path": ":theme/chart/stacked-bar100",
+        "name": "100% Stacked Bar",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "100% Stacked Bar",
+            "data-path": "/:theme/chart/stacked-bar100"
+        },
+        "uid": "24",
+        "cName": "Chart",
+        "searchValue": "Chart 100% Stacked Bar"
+    },
+    {
+        "path": ":theme/chart/tornado",
+        "name": "Negative Stack",
+        "order": "03",
+        "category": "Bar Charts",
+        "data": {
+            "sample-name": "Negative Stack",
+            "data-path": "/:theme/chart/tornado"
+        },
+        "uid": "25",
+        "cName": "Chart",
+        "searchValue": "Chart Negative Stack"
+    },
+    {
+        "path": ":theme/chart/hilo",
+        "name": "Hilo",
+        "order": "04",
+        "category": "Financial Charts",
+        "data": {
+            "sample-name": "Hilo",
+            "data-path": "/:theme/chart/hilo"
+        },
+        "uid": "26",
+        "cName": "Chart",
+        "searchValue": "Chart Hilo"
+    },
+    {
+        "path": ":theme/chart/hiloopenclose",
+        "name": "Hilo Open Close",
+        "order": "04",
+        "category": "Financial Charts",
+        "type": "update",
+        "data": {
+            "sample-name": "Hilo Open Close",
+            "data-path": "/:theme/chart/hiloopenclose"
+        },
+        "uid": "27",
+        "cName": "Chart",
+        "searchValue": "Chart Hilo Open Close"
+    },
+    {
+        "path": ":theme/chart/candle",
+        "name": "Candle",
+        "order": "04",
+        "category": "Financial Charts",
+        "type": "update",
+        "data": {
+            "sample-name": "Candle",
+            "data-path": "/:theme/chart/candle"
+        },
+        "uid": "28",
+        "cName": "Chart",
+        "searchValue": "Chart Candle"
+    },
+    {
+        "path": ":theme/chart/scatter",
+        "name": "Scatter",
+        "order": "05",
+        "category": "Scatter and Bubble",
+        "data": {
+            "sample-name": "Scatter",
+            "data-path": "/:theme/chart/scatter"
+        },
+        "uid": "29",
+        "cName": "Chart",
+        "searchValue": "Chart Scatter"
+    },
+    {
+        "path": ":theme/chart/bubble",
+        "name": "Bubble",
+        "order": "05",
+        "category": "Scatter and Bubble",
+        "data": {
+            "sample-name": "Bubble",
+            "data-path": "/:theme/chart/bubble"
+        },
+        "uid": "30",
+        "cName": "Chart",
+        "searchValue": "Chart Bubble"
+    },
+    {
+        "path": ":theme/chart/waterfall",
+        "name": "Waterfall",
+        "order": "06",
+        "category": "Other Types",
+        "data": {
+            "sample-name": "Waterfall",
+            "data-path": "/:theme/chart/waterfall"
+        },
+        "uid": "31",
+        "cName": "Chart",
+        "searchValue": "Chart Waterfall"
+    },
+    {
+        "path": ":theme/chart/histogram",
+        "name": "Histogram",
+        "order": "06",
+        "category": "Other Types",
+        "type": "new",
+        "data": {
+            "sample-name": "Histogram",
+            "data-path": "/:theme/chart/histogram"
+        },
+        "uid": "32",
+        "cName": "Chart",
+        "searchValue": "Chart Histogram"
+    },
+    {
+        "path": ":theme/chart/box-whisker",
+        "name": "Box and Whisker",
+        "order": "06",
+        "category": "Other Types",
+        "data": {
+            "sample-name": "Box and Whisker",
+            "data-path": "/:theme/chart/box-whisker"
+        },
+        "uid": "33",
+        "cName": "Chart",
+        "searchValue": "Chart Box and Whisker"
+    },
+    {
+        "path": ":theme/chart/error-bar",
+        "name": "Error Bar",
+        "order": "06",
+        "category": "Other Types",
+        "data": {
+            "sample-name": "Error Bar",
+            "data-path": "/:theme/chart/error-bar"
+        },
+        "uid": "34",
+        "cName": "Chart",
+        "searchValue": "Chart Error Bar"
+    },
+    {
+        "path": ":theme/chart/trend-lines",
+        "name": "Trendlines",
+        "order": "06",
+        "category": "Other Types",
+        "data": {
+            "sample-name": "Trendlines",
+            "data-path": "/:theme/chart/trend-lines"
+        },
+        "uid": "35",
+        "cName": "Chart",
+        "searchValue": "Chart Trendlines"
+    },
+    {
+        "path": ":theme/chart/combination-series",
+        "name": "Combination Series",
+        "order": "06",
+        "category": "Other Types",
+        "data": {
+            "sample-name": "Combination Series",
+            "data-path": "/:theme/chart/combination-series"
+        },
+        "uid": "36",
+        "cName": "Chart",
+        "searchValue": "Chart Combination Series"
+    },
+    {
+        "path": ":theme/chart/pareto-series",
+        "name": "Pareto Chart",
+        "order": "06",
+        "category": "Other Types",
+        "data": {
+            "sample-name": "Pareto Chart",
+            "data-path": "/:theme/chart/pareto-series"
+        },
+        "uid": "37",
+        "cName": "Chart",
+        "searchValue": "Chart Pareto Chart"
+    },
+    {
+        "path": ":theme/chart/adindicator",
+        "name": "Accumulation Distribution",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "Accumulation Distribution",
+            "data-path": "/:theme/chart/adindicator"
+        },
+        "uid": "38",
+        "cName": "Chart",
+        "searchValue": "Chart Accumulation Distribution"
+    },
+    {
+        "path": ":theme/chart/atrindicator",
+        "name": "ATR",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "ATR",
+            "data-path": "/:theme/chart/atrindicator"
+        },
+        "uid": "39",
+        "cName": "Chart",
+        "searchValue": "Chart ATR"
+    },
+    {
+        "path": ":theme/chart/bollinger",
+        "name": "Bollinger",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "Bollinger",
+            "data-path": "/:theme/chart/bollinger"
+        },
+        "uid": "40",
+        "cName": "Chart",
+        "searchValue": "Chart Bollinger"
+    },
+    {
+        "path": ":theme/chart/ema",
+        "name": "EMA",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "EMA",
+            "data-path": "/:theme/chart/ema"
+        },
+        "uid": "41",
+        "cName": "Chart",
+        "searchValue": "Chart EMA"
+    },
+    {
+        "path": ":theme/chart/macd",
+        "name": "MACD",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "MACD",
+            "data-path": "/:theme/chart/macd"
+        },
+        "uid": "42",
+        "cName": "Chart",
+        "searchValue": "Chart MACD"
+    },
+    {
+        "path": ":theme/chart/momentum",
+        "name": "Momentum",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "Momentum",
+            "data-path": "/:theme/chart/momentum"
+        },
+        "uid": "43",
+        "cName": "Chart",
+        "searchValue": "Chart Momentum"
+    },
+    {
+        "path": ":theme/chart/rsi",
+        "name": "RSI",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "RSI",
+            "data-path": "/:theme/chart/rsi"
+        },
+        "uid": "44",
+        "cName": "Chart",
+        "searchValue": "Chart RSI"
+    },
+    {
+        "path": ":theme/chart/sma",
+        "name": "SMA",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "SMA",
+            "data-path": "/:theme/chart/sma"
+        },
+        "uid": "45",
+        "cName": "Chart",
+        "searchValue": "Chart SMA"
+    },
+    {
+        "path": ":theme/chart/stochastic",
+        "name": "Stochastic",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "Stochastic",
+            "data-path": "/:theme/chart/stochastic"
+        },
+        "uid": "46",
+        "cName": "Chart",
+        "searchValue": "Chart Stochastic"
+    },
+    {
+        "path": ":theme/chart/tma",
+        "name": "TMA",
+        "order": "07",
+        "category": "Technical Indicators",
+        "data": {
+            "sample-name": "TMA",
+            "data-path": "/:theme/chart/tma"
+        },
+        "uid": "47",
+        "cName": "Chart",
+        "searchValue": "Chart TMA"
+    },
+    {
+        "path": ":theme/chart/performance",
+        "name": "Benchmark",
+        "order": "08",
+        "category": "Performance",
+        "data": {
+            "sample-name": "Benchmark",
+            "data-path": "/:theme/chart/performance"
+        },
+        "uid": "48",
+        "cName": "Chart",
+        "searchValue": "Chart Benchmark"
+    },
+    {
+        "path": ":theme/chart/default-pie",
+        "name": "Pie",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Pie",
+            "data-path": "/:theme/chart/default-pie"
+        },
+        "uid": "49",
+        "cName": "Chart",
+        "searchValue": "Chart Pie"
+    },
+    {
+        "path": ":theme/chart/doughnut",
+        "name": "Doughnut",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Doughnut",
+            "data-path": "/:theme/chart/doughnut"
+        },
+        "uid": "50",
+        "cName": "Chart",
+        "searchValue": "Chart Doughnut"
+    },
+    {
+        "path": ":theme/chart/pyramid",
+        "name": "Pyramid",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Pyramid",
+            "data-path": "/:theme/chart/pyramid"
+        },
+        "uid": "51",
+        "cName": "Chart",
+        "searchValue": "Chart Pyramid"
+    },
+    {
+        "path": ":theme/chart/funnel",
+        "name": "Funnel",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Funnel",
+            "data-path": "/:theme/chart/funnel"
+        },
+        "uid": "52",
+        "cName": "Chart",
+        "searchValue": "Chart Funnel"
+    },
+    {
+        "path": ":theme/chart/default-doughnut",
+        "name": "Pie With Legend",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Pie With Legend",
+            "data-path": "/:theme/chart/default-doughnut"
+        },
+        "uid": "53",
+        "cName": "Chart",
+        "searchValue": "Chart Pie With Legend"
+    },
+    {
+        "path": ":theme/chart/semi-pie",
+        "name": "Semi Pie",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Semi Pie",
+            "data-path": "/:theme/chart/semi-pie"
+        },
+        "uid": "54",
+        "cName": "Chart",
+        "searchValue": "Chart Semi Pie"
+    },
+    {
+        "path": ":theme/chart/smart-labels",
+        "name": "Smart Labels",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Smart Labels",
+            "data-path": "/:theme/chart/smart-labels"
+        },
+        "uid": "55",
+        "cName": "Chart",
+        "searchValue": "Chart Smart Labels"
+    },
+    {
+        "path": ":theme/chart/drilldown-pie",
+        "name": "Drilldown",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Drilldown",
+            "data-path": "/:theme/chart/drilldown-pie"
+        },
+        "uid": "56",
+        "cName": "Chart",
+        "searchValue": "Chart Drilldown"
+    },
+    {
+        "path": ":theme/chart/grouping",
+        "name": "Grouping",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "type": "update",
+        "data": {
+            "sample-name": "Grouping",
+            "data-path": "/:theme/chart/grouping"
+        },
+        "uid": "57",
+        "cName": "Chart",
+        "searchValue": "Chart Grouping"
+    },
+    {
+        "path": ":theme/chart/pie-empty-point",
+        "name": "Empty Points",
+        "order": "09",
+        "category": "Accumulation Charts",
+        "data": {
+            "sample-name": "Empty Points",
+            "data-path": "/:theme/chart/pie-empty-point"
+        },
+        "uid": "58",
+        "cName": "Chart",
+        "searchValue": "Chart Empty Points"
+    },
+    {
+        "path": ":theme/chart/polar-line",
+        "name": "Line",
+        "order": "10",
+        "category": "Polar Radar",
+        "data": {
+            "sample-name": "Line",
+            "data-path": "/:theme/chart/polar-line"
+        },
+        "uid": "59",
+        "cName": "Chart",
+        "searchValue": "Chart Line"
+    },
+    {
+        "path": ":theme/chart/polar-spline",
+        "name": "Spline",
+        "order": "10",
+        "category": "Polar Radar",
+        "data": {
+            "sample-name": "Spline",
+            "data-path": "/:theme/chart/polar-spline"
+        },
+        "uid": "60",
+        "cName": "Chart",
+        "searchValue": "Chart Spline"
+    },
+    {
+        "path": ":theme/chart/polar-area",
+        "name": "Area",
+        "order": "10",
+        "category": "Polar Radar",
+        "data": {
+            "sample-name": "Area",
+            "data-path": "/:theme/chart/polar-area"
+        },
+        "uid": "61",
+        "cName": "Chart",
+        "searchValue": "Chart Area"
+    },
+    {
+        "path": ":theme/chart/polar-stackedarea",
+        "name": "Stacked Area",
+        "order": "10",
+        "category": "Polar Radar",
+        "data": {
+            "sample-name": "Stacked Area",
+            "data-path": "/:theme/chart/polar-stackedarea"
+        },
+        "uid": "62",
+        "cName": "Chart",
+        "searchValue": "Chart Stacked Area"
+    },
+    {
+        "path": ":theme/chart/polar-scatter",
+        "name": "Scatter",
+        "order": "10",
+        "category": "Polar Radar",
+        "data": {
+            "sample-name": "Scatter",
+            "data-path": "/:theme/chart/polar-scatter"
+        },
+        "uid": "63",
+        "cName": "Chart",
+        "searchValue": "Chart Scatter"
+    },
+    {
+        "path": ":theme/chart/polar-column",
+        "name": "Column",
+        "order": "10",
+        "category": "Polar Radar",
+        "data": {
+            "sample-name": "Column",
+            "data-path": "/:theme/chart/polar-column"
+        },
+        "uid": "64",
+        "cName": "Chart",
+        "searchValue": "Chart Column"
+    },
+    {
+        "path": ":theme/chart/polar-stackedcolumn",
+        "name": "Wind Rose",
+        "order": "10",
+        "category": "Polar Radar",
+        "data": {
+            "sample-name": "Wind Rose",
+            "data-path": "/:theme/chart/polar-stackedcolumn"
+        },
+        "uid": "65",
+        "cName": "Chart",
+        "searchValue": "Chart Wind Rose"
+    },
+    {
+        "path": ":theme/chart/polar-rangecolumn",
+        "name": "Range Column",
+        "order": "10",
+        "category": "Polar Radar",
+        "data": {
+            "sample-name": "Range Column",
+            "data-path": "/:theme/chart/polar-rangecolumn"
+        },
+        "uid": "66",
+        "cName": "Chart",
+        "searchValue": "Chart Range Column"
+    },
+    {
+        "path": ":theme/chart/local-data",
+        "name": "Local Data",
+        "order": "11",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Local Data",
+            "data-path": "/:theme/chart/local-data"
+        },
+        "uid": "67",
+        "cName": "Chart",
+        "searchValue": "Chart Local Data"
+    },
+    {
+        "path": ":theme/chart/remote-data",
+        "name": "Remote Data",
+        "order": "11",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Remote Data",
+            "data-path": "/:theme/chart/remote-data"
+        },
+        "uid": "68",
+        "cName": "Chart",
+        "searchValue": "Chart Remote Data"
+    },
+    {
+        "path": ":theme/chart/numeric-axis",
+        "name": "Numeric Axis",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Numeric Axis",
+            "data-path": "/:theme/chart/numeric-axis"
+        },
+        "uid": "69",
+        "cName": "Chart",
+        "searchValue": "Chart Numeric Axis"
+    },
+    {
+        "path": ":theme/chart/datetime",
+        "name": "DateTime Axis",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "DateTime Axis",
+            "data-path": "/:theme/chart/datetime"
+        },
+        "uid": "70",
+        "cName": "Chart",
+        "searchValue": "Chart DateTime Axis"
+    },
+    {
+        "path": ":theme/chart/category",
+        "name": "Category Axis",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Category Axis",
+            "data-path": "/:theme/chart/category"
+        },
+        "uid": "71",
+        "cName": "Chart",
+        "searchValue": "Chart Category Axis"
+    },
+    {
+        "path": ":theme/chart/datetime-category",
+        "name": "DateTime Category Axis",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "DateTime Category Axis",
+            "data-path": "/:theme/chart/datetime-category"
+        },
+        "uid": "72",
+        "cName": "Chart",
+        "searchValue": "Chart DateTime Category Axis"
+    },
+    {
+        "path": ":theme/chart/indexed-axis",
+        "name": "Indexed Category Axis",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Indexed Category Axis",
+            "data-path": "/:theme/chart/indexed-axis"
+        },
+        "uid": "73",
+        "cName": "Chart",
+        "searchValue": "Chart Indexed Category Axis"
+    },
+    {
+        "path": ":theme/chart/logarithmic",
+        "name": "Log Axis",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Log Axis",
+            "data-path": "/:theme/chart/logarithmic"
+        },
+        "uid": "74",
+        "cName": "Chart",
+        "searchValue": "Chart Log Axis"
+    },
+    {
+        "path": ":theme/chart/multiple-axes",
+        "name": "Multiple Axes",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Multiple Axes",
+            "data-path": "/:theme/chart/multiple-axes"
+        },
+        "uid": "75",
+        "cName": "Chart",
+        "searchValue": "Chart Multiple Axes"
+    },
+    {
+        "path": ":theme/chart/inversed",
+        "name": "Inversed Axes",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Inversed Axes",
+            "data-path": "/:theme/chart/inversed"
+        },
+        "uid": "76",
+        "cName": "Chart",
+        "searchValue": "Chart Inversed Axes"
+    },
+    {
+        "path": ":theme/chart/stripline",
+        "name": "Strip Line",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Strip Line",
+            "data-path": "/:theme/chart/stripline"
+        },
+        "uid": "77",
+        "cName": "Chart",
+        "searchValue": "Chart Strip Line"
+    },
+    {
+        "path": ":theme/chart/smart-axis-labels",
+        "name": "Smart Labels",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Smart Labels",
+            "data-path": "/:theme/chart/smart-axis-labels"
+        },
+        "uid": "78",
+        "cName": "Chart",
+        "searchValue": "Chart Smart Labels"
+    },
+    {
+        "path": ":theme/chart/multi-level-label",
+        "name": "Multi Level Labels",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Multi Level Labels",
+            "data-path": "/:theme/chart/multi-level-label"
+        },
+        "uid": "79",
+        "cName": "Chart",
+        "searchValue": "Chart Multi Level Labels"
+    },
+    {
+        "path": ":theme/chart/axis-crossing",
+        "name": "Axes Crossing",
+        "order": "12",
+        "category": "Chart Axes",
+        "data": {
+            "sample-name": "Axes Crossing",
+            "data-path": "/:theme/chart/axis-crossing"
+        },
+        "uid": "80",
+        "cName": "Chart",
+        "searchValue": "Chart Axes Crossing"
+    },
+    {
+        "path": ":theme/chart/sorting",
+        "name": "Sorting",
+        "order": "13",
+        "category": "Chart Customization",
+        "data": {
+            "sample-name": "Sorting",
+            "data-path": "/:theme/chart/sorting"
+        },
+        "uid": "81",
+        "cName": "Chart",
+        "searchValue": "Chart Sorting"
+    },
+    {
+        "path": ":theme/chart/symbols",
+        "name": "Symbols",
+        "order": "13",
+        "category": "Chart Customization",
+        "data": {
+            "sample-name": "Symbols",
+            "data-path": "/:theme/chart/symbols"
+        },
+        "uid": "82",
+        "cName": "Chart",
+        "searchValue": "Chart Symbols"
+    },
+    {
+        "path": ":theme/chart/annotation",
+        "name": "Annotation",
+        "order": "13",
+        "category": "Chart Customization",
+        "data": {
+            "sample-name": "Annotation",
+            "data-path": "/:theme/chart/annotation"
+        },
+        "uid": "83",
+        "cName": "Chart",
+        "searchValue": "Chart Annotation"
+    },
+    {
+        "path": ":theme/chart/datalabel-template",
+        "name": "Datalabel Template",
+        "order": "13",
+        "category": "Chart Customization",
+        "data": {
+            "sample-name": "Datalabel Template",
+            "data-path": "/:theme/chart/datalabel-template"
+        },
+        "uid": "84",
+        "cName": "Chart",
+        "searchValue": "Chart Datalabel Template"
+    },
+    {
+        "path": ":theme/chart/vertical-chart",
+        "name": "Vertical Chart",
+        "order": "13",
+        "category": "Chart Customization",
+        "data": {
+            "sample-name": "Vertical Chart",
+            "data-path": "/:theme/chart/vertical-chart"
+        },
+        "uid": "85",
+        "cName": "Chart",
+        "searchValue": "Chart Vertical Chart"
+    },
+    {
+        "path": ":theme/chart/empty-point",
+        "name": "Empty Points",
+        "order": "13",
+        "category": "Chart Customization",
+        "data": {
+            "sample-name": "Empty Points",
+            "data-path": "/:theme/chart/empty-point"
+        },
+        "uid": "86",
+        "cName": "Chart",
+        "searchValue": "Chart Empty Points"
+    },
+    {
+        "path": ":theme/chart/print",
+        "name": "Print",
+        "order": "14",
+        "category": "Print and Export",
+        "data": {
+            "sample-name": "Print",
+            "data-path": "/:theme/chart/print"
+        },
+        "uid": "87",
+        "cName": "Chart",
+        "searchValue": "Chart Print"
+    },
+    {
+        "path": ":theme/chart/export",
+        "name": "Export",
+        "order": "14",
+        "category": "Print and Export",
+        "data": {
+            "sample-name": "Export",
+            "data-path": "/:theme/chart/export"
+        },
+        "uid": "88",
+        "cName": "Chart",
+        "searchValue": "Chart Export"
+    },
+    {
+        "path": ":theme/chart/selection",
+        "name": "Selection",
+        "order": "15",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Selection",
+            "data-path": "/:theme/chart/selection"
+        },
+        "uid": "89",
+        "cName": "Chart",
+        "searchValue": "Chart Selection"
+    },
+    {
+        "path": ":theme/chart/range-selection",
+        "name": "Range Selection",
+        "order": "15",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Range Selection",
+            "data-path": "/:theme/chart/range-selection"
+        },
+        "uid": "90",
+        "cName": "Chart",
+        "searchValue": "Chart Range Selection"
+    },
+    {
+        "path": ":theme/chart/crosshair",
+        "name": "Crosshair",
+        "order": "15",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Crosshair",
+            "data-path": "/:theme/chart/crosshair"
+        },
+        "uid": "91",
+        "cName": "Chart",
+        "searchValue": "Chart Crosshair"
+    },
+    {
+        "path": ":theme/chart/trackball",
+        "name": "TrackBall",
+        "order": "15",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "TrackBall",
+            "data-path": "/:theme/chart/trackball"
+        },
+        "uid": "92",
+        "cName": "Chart",
+        "searchValue": "Chart TrackBall"
+    },
+    {
+        "path": ":theme/chart/zooming",
+        "name": "Zooming and Panning",
+        "order": "15",
+        "category": "User Interaction",
+        "type": "update",
+        "data": {
+            "sample-name": "Zooming and Panning",
+            "data-path": "/:theme/chart/zooming"
+        },
+        "uid": "93",
+        "cName": "Chart",
+        "searchValue": "Chart Zooming and Panning"
+    },
+    {
+        "path": ":theme/diagram/default-functionalities",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "Getting Started",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/diagram/default-functionalities"
+        },
+        "uid": "0",
+        "cName": "Diagram",
+        "searchValue": "Diagram Default Functionalities"
+    },
+    {
+        "path": ":theme/diagram/shapes",
+        "name": "Shapes",
+        "category": "Getting Started",
+        "order": "01",
+        "data": {
+            "sample-name": "Shapes",
+            "data-path": "/:theme/diagram/shapes"
+        },
+        "uid": "1",
+        "cName": "Diagram",
+        "searchValue": "Diagram Shapes"
+    },
+    {
+        "path": ":theme/diagram/nodes",
+        "name": "Nodes",
+        "category": "Getting Started",
+        "order": "01",
+        "data": {
+            "sample-name": "Nodes",
+            "data-path": "/:theme/diagram/nodes"
+        },
+        "uid": "2",
+        "cName": "Diagram",
+        "searchValue": "Diagram Nodes"
+    },
+    {
+        "path": ":theme/diagram/connectors",
+        "name": "Connectors",
+        "category": "Getting Started",
+        "order": "01",
+        "data": {
+            "sample-name": "Connectors",
+            "data-path": "/:theme/diagram/connectors"
+        },
+        "uid": "3",
+        "cName": "Diagram",
+        "searchValue": "Diagram Connectors"
+    },
+    {
+        "path": ":theme/diagram/annotations",
+        "name": "Annotations",
+        "category": "Getting Started",
+        "order": "01",
+        "data": {
+            "sample-name": "Annotations",
+            "data-path": "/:theme/diagram/annotations"
+        },
+        "uid": "4",
+        "cName": "Diagram",
+        "searchValue": "Diagram Annotations"
+    },
+    {
+        "path": ":theme/diagram/ports",
+        "name": "Ports",
+        "category": "Getting Started",
+        "order": "01",
+        "data": {
+            "sample-name": "Ports",
+            "data-path": "/:theme/diagram/ports"
+        },
+        "uid": "5",
+        "cName": "Diagram",
+        "searchValue": "Diagram Ports"
+    },
+    {
+        "path": ":theme/diagram/complexshapes",
+        "name": "Complex Shapes",
+        "category": "Getting Started",
+        "order": "01",
+        "data": {
+            "sample-name": "Complex Shapes",
+            "data-path": "/:theme/diagram/complexshapes"
+        },
+        "uid": "6",
+        "cName": "Diagram",
+        "searchValue": "Diagram Complex Shapes"
+    },
+    {
+        "path": ":theme/diagram/drawing-tool",
+        "name": "Drawing Tools",
+        "category": "User Interaction",
+        "order": "02",
+        "data": {
+            "sample-name": "Drawing Tools",
+            "data-path": "/:theme/diagram/drawing-tool"
+        },
+        "uid": "7",
+        "cName": "Diagram",
+        "searchValue": "Diagram Drawing Tools"
+    },
+    {
+        "path": ":theme/diagram/key-board-functions",
+        "name": "Keyboard Interaction",
+        "category": "User Interaction",
+        "order": "02",
+        "data": {
+            "sample-name": "Keyboard Interaction",
+            "data-path": "/:theme/diagram/key-board-functions"
+        },
+        "uid": "8",
+        "cName": "Diagram",
+        "searchValue": "Diagram Keyboard Interaction"
+    },
+    {
+        "path": ":theme/diagram/userhandle",
+        "name": "User Handles",
+        "category": "User Interaction",
+        "order": "02",
+        "data": {
+            "sample-name": "User Handles",
+            "data-path": "/:theme/diagram/userhandle"
+        },
+        "uid": "9",
+        "cName": "Diagram",
+        "searchValue": "Diagram User Handles"
+    },
+    {
+        "path": ":theme/diagram/symbol-palette",
+        "name": "Symbol Palette",
+        "category": "User Interaction",
+        "order": "02",
+        "data": {
+            "sample-name": "Symbol Palette",
+            "data-path": "/:theme/diagram/symbol-palette"
+        },
+        "uid": "10",
+        "cName": "Diagram",
+        "searchValue": "Diagram Symbol Palette"
+    },
+    {
+        "path": ":theme/diagram/overview",
+        "name": "Overview Panel",
+        "category": "User Interaction",
+        "order": "02",
+        "data": {
+            "sample-name": "Overview Panel",
+            "data-path": "/:theme/diagram/overview"
+        },
+        "uid": "11",
+        "cName": "Diagram",
+        "searchValue": "Diagram Overview Panel"
+    },
+    {
+        "path": ":theme/diagram/serialization",
+        "name": "Save and Load",
+        "category": "Print and Export",
+        "order": "03",
+        "data": {
+            "sample-name": "Save and Load",
+            "data-path": "/:theme/diagram/serialization"
+        },
+        "uid": "12",
+        "cName": "Diagram",
+        "searchValue": "Diagram Save and Load"
+    },
+    {
+        "path": ":theme/diagram/print-export",
+        "name": "Print and Export",
+        "category": "Print and Export",
+        "order": "03",
+        "data": {
+            "sample-name": "Print and Export",
+            "data-path": "/:theme/diagram/print-export"
+        },
+        "uid": "13",
+        "cName": "Diagram",
+        "searchValue": "Diagram Print and Export"
+    },
+    {
+        "path": ":theme/diagram/hierarchical-tree",
+        "name": "Hierarchical Tree",
+        "category": "Automatic Layouts",
+        "order": "04",
+        "data": {
+            "sample-name": "Hierarchical Tree",
+            "data-path": "/:theme/diagram/hierarchical-tree"
+        },
+        "uid": "14",
+        "cName": "Diagram",
+        "searchValue": "Diagram Hierarchical Tree"
+    },
+    {
+        "path": ":theme/diagram/organizationalchart",
+        "name": "Organizational Chart",
+        "category": "Automatic Layouts",
+        "order": "04",
+        "data": {
+            "sample-name": "Organizational Chart",
+            "data-path": "/:theme/diagram/organizationalchart"
+        },
+        "uid": "15",
+        "cName": "Diagram",
+        "searchValue": "Diagram Organizational Chart"
+    },
+    {
+        "path": ":theme/diagram/radial-tree",
+        "name": "Radial Tree",
+        "category": "Automatic Layouts",
+        "order": "04",
+        "data": {
+            "sample-name": "Radial Tree",
+            "data-path": "/:theme/diagram/radial-tree"
+        },
+        "uid": "16",
+        "cName": "Diagram",
+        "searchValue": "Diagram Radial Tree"
+    },
+    {
+        "path": ":theme/diagram/mind-map",
+        "name": "Mind Map",
+        "category": "Automatic Layouts",
+        "order": "04",
+        "data": {
+            "sample-name": "Mind Map",
+            "data-path": "/:theme/diagram/mind-map"
+        },
+        "uid": "17",
+        "cName": "Diagram",
+        "searchValue": "Diagram Mind Map"
+    },
+    {
+        "path": ":theme/diagram/symmetriclayout",
+        "name": "Symmetric Layout",
+        "category": "Automatic Layouts",
+        "order": "04",
+        "data": {
+            "sample-name": "Symmetric Layout",
+            "data-path": "/:theme/diagram/symmetriclayout"
+        },
+        "uid": "18",
+        "cName": "Diagram",
+        "searchValue": "Diagram Symmetric Layout"
+    },
+    {
+        "path": ":theme/diagram/complex-hierarchical-tree",
+        "name": "Complex Hierarchical Tree",
+        "category": "Automatic Layouts",
+        "order": "04",
+        "data": {
+            "sample-name": "Complex Hierarchical Tree",
+            "data-path": "/:theme/diagram/complex-hierarchical-tree"
+        },
+        "uid": "19",
+        "cName": "Diagram",
+        "searchValue": "Diagram Complex Hierarchical Tree"
+    },
+    {
+        "path": ":theme/diagram/rtl-tree",
+        "name": "RTL Tree",
+        "category": "Automatic Layouts",
+        "order": "04",
+        "data": {
+            "sample-name": "RTL Tree",
+            "data-path": "/:theme/diagram/rtl-tree"
+        },
+        "uid": "20",
+        "cName": "Diagram",
+        "searchValue": "Diagram RTL Tree"
+    },
+    {
+        "path": ":theme/diagram/pert-chart",
+        "name": "PERT chart",
+        "category": "Automatic Layouts",
+        "order": "04",
+        "data": {
+            "sample-name": "PERT chart",
+            "data-path": "/:theme/diagram/pert-chart"
+        },
+        "uid": "21",
+        "cName": "Diagram",
+        "searchValue": "Diagram PERT chart"
+    },
+    {
+        "path": ":theme/diagram/local-data",
+        "name": "Local Data",
+        "category": "Data Binding",
+        "order": "05",
+        "data": {
+            "sample-name": "Local Data",
+            "data-path": "/:theme/diagram/local-data"
+        },
+        "uid": "22",
+        "cName": "Diagram",
+        "searchValue": "Diagram Local Data"
+    },
+    {
+        "path": ":theme/diagram/remote-data",
+        "name": "Remote Data",
+        "category": "Data Binding",
+        "order": "05",
+        "data": {
+            "sample-name": "Remote Data",
+            "data-path": "/:theme/diagram/remote-data"
+        },
+        "uid": "23",
+        "cName": "Diagram",
+        "searchValue": "Diagram Remote Data"
+    },
+    {
+        "path": ":theme/diagram/venn-diagram",
+        "name": "Venn Diagram",
+        "category": "Static Diagram",
+        "order": "06",
+        "data": {
+            "sample-name": "Venn Diagram",
+            "data-path": "/:theme/diagram/venn-diagram"
+        },
+        "uid": "24",
+        "cName": "Diagram",
+        "searchValue": "Diagram Venn Diagram"
+    },
+    {
+        "path": ":theme/maps/default",
+        "name": "Default",
+        "order": "01",
+        "category": "Maps",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/maps/default"
+        },
+        "uid": "0",
+        "cName": "Maps",
+        "searchValue": "Maps Default"
+    },
+    {
+        "path": ":theme/maps/projection",
+        "name": "Changing Projection",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Changing Projection",
+            "data-path": "/:theme/maps/projection"
+        },
+        "uid": "1",
+        "cName": "Maps",
+        "searchValue": "Maps Changing Projection"
+    },
+    {
+        "path": ":theme/maps/multilayer",
+        "name": "Multi-layers",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Multi-layers",
+            "data-path": "/:theme/maps/multilayer"
+        },
+        "uid": "2",
+        "cName": "Maps",
+        "searchValue": "Maps Multi-layers"
+    },
+    {
+        "path": ":theme/maps/marker",
+        "name": "Marker",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Marker",
+            "data-path": "/:theme/maps/marker"
+        },
+        "uid": "3",
+        "cName": "Maps",
+        "searchValue": "Maps Marker"
+    },
+    {
+        "path": ":theme/maps/markertemplate",
+        "name": "Marker template",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Marker template",
+            "data-path": "/:theme/maps/markertemplate"
+        },
+        "uid": "4",
+        "cName": "Maps",
+        "searchValue": "Maps Marker template"
+    },
+    {
+        "path": ":theme/maps/labels",
+        "name": "Labels",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Labels",
+            "data-path": "/:theme/maps/labels"
+        },
+        "uid": "5",
+        "cName": "Maps",
+        "searchValue": "Maps Labels"
+    },
+    {
+        "path": ":theme/maps/bubble",
+        "name": "Map with Bubble",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Map with Bubble",
+            "data-path": "/:theme/maps/bubble"
+        },
+        "uid": "6",
+        "cName": "Maps",
+        "searchValue": "Maps Map with Bubble"
+    },
+    {
+        "path": ":theme/maps/navigationLines",
+        "name": "Navigation Lines",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Navigation Lines",
+            "data-path": "/:theme/maps/navigationLines"
+        },
+        "uid": "7",
+        "cName": "Maps",
+        "searchValue": "Maps Navigation Lines"
+    },
+    {
+        "path": ":theme/maps/legend",
+        "name": "Grouping countries",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Grouping countries",
+            "data-path": "/:theme/maps/legend"
+        },
+        "uid": "8",
+        "cName": "Maps",
+        "searchValue": "Maps Grouping countries"
+    },
+    {
+        "path": ":theme/maps/annotation",
+        "name": "Annotations",
+        "order": "02",
+        "category": "Features",
+        "data": {
+            "sample-name": "Annotations",
+            "data-path": "/:theme/maps/annotation"
+        },
+        "uid": "9",
+        "cName": "Maps",
+        "searchValue": "Maps Annotations"
+    },
+    {
+        "path": ":theme/maps/tooltip",
+        "name": "Tooltip",
+        "order": "03",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Tooltip",
+            "data-path": "/:theme/maps/tooltip"
+        },
+        "uid": "10",
+        "cName": "Maps",
+        "searchValue": "Maps Tooltip"
+    },
+    {
+        "path": ":theme/maps/selection",
+        "name": "Selection & Highlight",
+        "order": "03",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Selection & Highlight",
+            "data-path": "/:theme/maps/selection"
+        },
+        "uid": "11",
+        "cName": "Maps",
+        "searchValue": "Maps Selection & Highlight"
+    },
+    {
+        "path": ":theme/maps/zooming",
+        "name": "Zooming & Panning",
+        "order": "03",
+        "category": "User Interaction",
+        "type": "update",
+        "data": {
+            "sample-name": "Zooming & Panning",
+            "data-path": "/:theme/maps/zooming"
+        },
+        "uid": "12",
+        "cName": "Maps",
+        "searchValue": "Maps Zooming & Panning"
+    },
+    {
+        "path": ":theme/maps/drilldown",
+        "name": "Drill Down",
+        "order": "03",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Drill Down",
+            "data-path": "/:theme/maps/drilldown"
+        },
+        "uid": "13",
+        "cName": "Maps",
+        "searchValue": "Maps Drill Down"
+    },
+    {
+        "path": ":theme/maps/print",
+        "name": "Print",
+        "order": "04",
+        "category": "Print and Export",
+        "type": "new",
+        "data": {
+            "sample-name": "Print",
+            "data-path": "/:theme/maps/print"
+        },
+        "uid": "14",
+        "cName": "Maps",
+        "searchValue": "Maps Print"
+    },
+    {
+        "path": ":theme/maps/export",
+        "name": "Export",
+        "order": "04",
+        "category": "Print and Export",
+        "type": "new",
+        "data": {
+            "sample-name": "Export",
+            "data-path": "/:theme/maps/export"
+        },
+        "uid": "15",
+        "cName": "Maps",
+        "searchValue": "Maps Export"
+    },
+    {
+        "path": ":theme/maps/heatmap",
+        "name": "Heat Map",
+        "order": "05",
+        "category": "Use Cases",
+        "data": {
+            "sample-name": "Heat Map",
+            "data-path": "/:theme/maps/heatmap"
+        },
+        "uid": "16",
+        "cName": "Maps",
+        "searchValue": "Maps Heat Map"
+    },
+    {
+        "path": ":theme/maps/curvedlines",
+        "name": "Flight routes",
+        "order": "05",
+        "category": "Use Cases",
+        "data": {
+            "sample-name": "Flight routes",
+            "data-path": "/:theme/maps/curvedlines"
+        },
+        "uid": "17",
+        "cName": "Maps",
+        "searchValue": "Maps Flight routes"
+    },
+    {
+        "path": ":theme/maps/earthquake",
+        "name": "Earthquake indication",
+        "order": "05",
+        "category": "Use Cases",
+        "data": {
+            "sample-name": "Earthquake indication",
+            "data-path": "/:theme/maps/earthquake"
+        },
+        "uid": "18",
+        "cName": "Maps",
+        "searchValue": "Maps Earthquake indication"
+    },
+    {
+        "path": ":theme/maps/highlight",
+        "name": "Highlighted Region",
+        "order": "05",
+        "category": "Use Cases",
+        "data": {
+            "sample-name": "Highlighted Region",
+            "data-path": "/:theme/maps/highlight"
+        },
+        "uid": "19",
+        "cName": "Maps",
+        "searchValue": "Maps Highlighted Region"
+    },
+    {
+        "path": ":theme/maps/pie",
+        "name": "Map with Pie chart",
+        "order": "05",
+        "category": "Use Cases",
+        "data": {
+            "sample-name": "Map with Pie chart",
+            "data-path": "/:theme/maps/pie"
+        },
+        "uid": "20",
+        "cName": "Maps",
+        "searchValue": "Maps Map with Pie chart"
+    },
+    {
+        "path": ":theme/maps/seatSelection",
+        "name": "Bus seat booking",
+        "order": "05",
+        "category": "Use Cases",
+        "data": {
+            "sample-name": "Bus seat booking",
+            "data-path": "/:theme/maps/seatSelection"
+        },
+        "uid": "21",
+        "cName": "Maps",
+        "searchValue": "Maps Bus seat booking"
+    },
+    {
+        "path": ":theme/treemap/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/treemap/default"
+        },
+        "uid": "0",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Default Functionalities"
+    },
+    {
+        "path": ":theme/treemap/layout",
+        "name": "Layout",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Layout",
+            "data-path": "/:theme/treemap/layout"
+        },
+        "uid": "1",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Layout"
+    },
+    {
+        "path": ":theme/treemap/drilldown",
+        "name": "Drilldown",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Drilldown",
+            "data-path": "/:theme/treemap/drilldown"
+        },
+        "uid": "2",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Drilldown"
+    },
+    {
+        "path": ":theme/treemap/custom",
+        "name": "Customization",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Customization",
+            "data-path": "/:theme/treemap/custom"
+        },
+        "uid": "3",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Customization"
+    },
+    {
+        "path": ":theme/treemap/label",
+        "name": "Data Label",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Data Label",
+            "data-path": "/:theme/treemap/label"
+        },
+        "uid": "4",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Data Label"
+    },
+    {
+        "path": ":theme/treemap/tooltip",
+        "name": "Tooltip",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Tooltip",
+            "data-path": "/:theme/treemap/tooltip"
+        },
+        "uid": "5",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Tooltip"
+    },
+    {
+        "path": ":theme/treemap/legend",
+        "name": "Legend",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Legend",
+            "data-path": "/:theme/treemap/legend"
+        },
+        "uid": "6",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Legend"
+    },
+    {
+        "path": ":theme/treemap/selection",
+        "name": "Selection & Highlight",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Selection & Highlight",
+            "data-path": "/:theme/treemap/selection"
+        },
+        "uid": "7",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Selection & Highlight"
+    },
+    {
+        "path": ":theme/treemap/print",
+        "name": "Print & Export",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "Print & Export",
+            "data-path": "/:theme/treemap/print"
+        },
+        "uid": "8",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap Print & Export"
+    },
+    {
+        "path": ":theme/treemap/pie",
+        "name": "TreeMap with Pie",
+        "order": "01",
+        "category": "TreeMap",
+        "data": {
+            "sample-name": "TreeMap with Pie",
+            "data-path": "/:theme/treemap/pie"
+        },
+        "uid": "9",
+        "cName": "TreeMap",
+        "searchValue": "TreeMap TreeMap with Pie"
+    },
+    {
+        "path": ":theme/heatmap/default",
+        "name": "Default",
+        "order": "01",
+        "category": "Heatmap",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/heatmap/default"
+        },
+        "uid": "0",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Default"
+    },
+    {
+        "path": ":theme/heatmap/array-row",
+        "name": "Row",
+        "order": "02",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Row",
+            "data-path": "/:theme/heatmap/array-row"
+        },
+        "uid": "1",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Row"
+    },
+    {
+        "path": ":theme/heatmap/array-cell",
+        "name": "Cell",
+        "order": "02",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Cell",
+            "data-path": "/:theme/heatmap/array-cell"
+        },
+        "uid": "2",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Cell"
+    },
+    {
+        "path": ":theme/heatmap/row-json",
+        "name": "JSON Row",
+        "order": "02",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "JSON Row",
+            "data-path": "/:theme/heatmap/row-json"
+        },
+        "uid": "3",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap JSON Row"
+    },
+    {
+        "path": ":theme/heatmap/cell-json",
+        "name": "JSON Cell",
+        "order": "02",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "JSON Cell",
+            "data-path": "/:theme/heatmap/cell-json"
+        },
+        "uid": "4",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap JSON Cell"
+    },
+    {
+        "path": ":theme/heatmap/empty-points",
+        "name": "Empty Points",
+        "order": "03",
+        "category": "Feature",
+        "data": {
+            "sample-name": "Empty Points",
+            "data-path": "/:theme/heatmap/empty-points"
+        },
+        "uid": "5",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Empty Points"
+    },
+    {
+        "path": ":theme/heatmap/inversed",
+        "name": "Inversed",
+        "order": "03",
+        "category": "Feature",
+        "data": {
+            "sample-name": "Inversed",
+            "data-path": "/:theme/heatmap/inversed"
+        },
+        "uid": "6",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Inversed"
+    },
+    {
+        "path": ":theme/heatmap/opposed",
+        "name": "Opposed",
+        "order": "03",
+        "category": "Feature",
+        "data": {
+            "sample-name": "Opposed",
+            "data-path": "/:theme/heatmap/opposed"
+        },
+        "uid": "7",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Opposed"
+    },
+    {
+        "path": ":theme/heatmap/legend",
+        "name": "Legend",
+        "order": "03",
+        "category": "Feature",
+        "data": {
+            "sample-name": "Legend",
+            "data-path": "/:theme/heatmap/legend"
+        },
+        "uid": "8",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Legend"
+    },
+    {
+        "path": ":theme/heatmap/large-data",
+        "name": "Large Data",
+        "order": "03",
+        "category": "Feature",
+        "data": {
+            "sample-name": "Large Data",
+            "data-path": "/:theme/heatmap/large-data"
+        },
+        "uid": "9",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Large Data"
+    },
+    {
+        "path": ":theme/heatmap/palette",
+        "name": "Palette",
+        "order": "03",
+        "category": "Feature",
+        "data": {
+            "sample-name": "Palette",
+            "data-path": "/:theme/heatmap/palette"
+        },
+        "uid": "10",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Palette"
+    },
+    {
+        "path": ":theme/heatmap/render-mode",
+        "name": "Rendering Mode",
+        "order": "03",
+        "category": "Feature",
+        "data": {
+            "sample-name": "Rendering Mode",
+            "data-path": "/:theme/heatmap/render-mode"
+        },
+        "uid": "11",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Rendering Mode"
+    },
+    {
+        "path": ":theme/heatmap/tooltiptemplate",
+        "name": "Tooltip Template",
+        "order": "03",
+        "category": "Feature",
+        "data": {
+            "sample-name": "Tooltip Template",
+            "data-path": "/:theme/heatmap/tooltiptemplate"
+        },
+        "uid": "12",
+        "cName": "HeatMap",
+        "searchValue": "HeatMap Tooltip Template"
+    },
+    {
+        "path": ":theme/circulargauge/default",
+        "name": "Default",
+        "order": "01",
+        "category": "Circular Gauge",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/circulargauge/default"
+        },
+        "uid": "0",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Default"
+    },
+    {
+        "path": ":theme/circulargauge/range",
+        "name": "Range",
+        "order": "01",
+        "category": "Circular Gauge",
+        "data": {
+            "sample-name": "Range",
+            "data-path": "/:theme/circulargauge/range"
+        },
+        "uid": "1",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Range"
+    },
+    {
+        "path": ":theme/circulargauge/label",
+        "name": "Ticks and Labels",
+        "order": "01",
+        "category": "Circular Gauge",
+        "data": {
+            "sample-name": "Ticks and Labels",
+            "data-path": "/:theme/circulargauge/label"
+        },
+        "uid": "2",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Ticks and Labels"
+    },
+    {
+        "path": ":theme/circulargauge/annotation",
+        "name": "Annotation",
+        "order": "01",
+        "category": "Circular Gauge",
+        "data": {
+            "sample-name": "Annotation",
+            "data-path": "/:theme/circulargauge/annotation"
+        },
+        "uid": "3",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Annotation"
+    },
+    {
+        "path": ":theme/circulargauge/customization",
+        "name": "Gauge Customization",
+        "order": "01",
+        "category": "Circular Gauge",
+        "data": {
+            "sample-name": "Gauge Customization",
+            "data-path": "/:theme/circulargauge/customization"
+        },
+        "uid": "4",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Gauge Customization"
+    },
+    {
+        "path": ":theme/circulargauge/direction",
+        "name": "Direction Compass",
+        "order": "01",
+        "category": "Circular Gauge",
+        "data": {
+            "sample-name": "Direction Compass",
+            "data-path": "/:theme/circulargauge/direction"
+        },
+        "uid": "5",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Direction Compass"
+    },
+    {
+        "path": ":theme/circulargauge/pointer-image",
+        "name": "Pointer Image",
+        "order": "02",
+        "category": "Pointer",
+        "data": {
+            "sample-name": "Pointer Image",
+            "data-path": "/:theme/circulargauge/pointer-image"
+        },
+        "uid": "6",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Pointer Image"
+    },
+    {
+        "path": ":theme/circulargauge/pointers",
+        "name": "Pointer Customization",
+        "order": "02",
+        "category": "Pointer",
+        "data": {
+            "sample-name": "Pointer Customization",
+            "data-path": "/:theme/circulargauge/pointers"
+        },
+        "uid": "7",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Pointer Customization"
+    },
+    {
+        "path": ":theme/circulargauge/multiple-axis",
+        "name": "Multiple Axis",
+        "order": "03",
+        "category": "Axes",
+        "data": {
+            "sample-name": "Multiple Axis",
+            "data-path": "/:theme/circulargauge/multiple-axis"
+        },
+        "uid": "8",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Multiple Axis"
+    },
+    {
+        "path": ":theme/circulargauge/user-interactions",
+        "name": "Pointer Drag",
+        "order": "04",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Pointer Drag",
+            "data-path": "/:theme/circulargauge/user-interactions"
+        },
+        "uid": "9",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Pointer Drag"
+    },
+    {
+        "path": ":theme/circulargauge/tooltip",
+        "name": "Tooltip",
+        "order": "04",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Tooltip",
+            "data-path": "/:theme/circulargauge/tooltip"
+        },
+        "uid": "10",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Tooltip"
+    },
+    {
+        "path": ":theme/circulargauge/sampledata",
+        "name": "Data Sample",
+        "order": "05",
+        "category": "Live",
+        "data": {
+            "sample-name": "Data Sample",
+            "data-path": "/:theme/circulargauge/sampledata"
+        },
+        "uid": "11",
+        "cName": "Circular Gauge",
+        "searchValue": "Circular Gauge Data Sample"
+    },
+    {
+        "path": ":theme/lineargauge/default",
+        "name": "Default",
+        "order": "01",
+        "category": "Linear Gauge",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/lineargauge/default"
+        },
+        "uid": "0",
+        "cName": "Linear Gauge",
+        "searchValue": "Linear Gauge Default"
+    },
+    {
+        "path": ":theme/lineargauge/container",
+        "name": "Container",
+        "order": "01",
+        "category": "Linear Gauge",
+        "data": {
+            "sample-name": "Container",
+            "data-path": "/:theme/lineargauge/container"
+        },
+        "uid": "1",
+        "cName": "Linear Gauge",
+        "searchValue": "Linear Gauge Container"
+    },
+    {
+        "path": ":theme/lineargauge/ranges",
+        "name": "Ranges",
+        "order": "01",
+        "category": "Linear Gauge",
+        "data": {
+            "sample-name": "Ranges",
+            "data-path": "/:theme/lineargauge/ranges"
+        },
+        "uid": "2",
+        "cName": "Linear Gauge",
+        "searchValue": "Linear Gauge Ranges"
+    },
+    {
+        "path": ":theme/lineargauge/data",
+        "name": "Data Sample",
+        "order": "01",
+        "category": "Linear Gauge",
+        "data": {
+            "sample-name": "Data Sample",
+            "data-path": "/:theme/lineargauge/data"
+        },
+        "uid": "3",
+        "cName": "Linear Gauge",
+        "searchValue": "Linear Gauge Data Sample"
+    },
+    {
+        "path": ":theme/lineargauge/axes",
+        "name": "Axes and Pointers",
+        "order": "01",
+        "category": "Linear Gauge",
+        "data": {
+            "sample-name": "Axes and Pointers",
+            "data-path": "/:theme/lineargauge/axes"
+        },
+        "uid": "4",
+        "cName": "Linear Gauge",
+        "searchValue": "Linear Gauge Axes and Pointers"
+    },
+    {
+        "path": ":theme/lineargauge/annotation",
+        "name": "Annotation",
+        "order": "01",
+        "category": "Linear Gauge",
+        "data": {
+            "sample-name": "Annotation",
+            "data-path": "/:theme/lineargauge/annotation"
+        },
+        "uid": "5",
+        "cName": "Linear Gauge",
+        "searchValue": "Linear Gauge Annotation"
+    },
+    {
+        "path": ":theme/lineargauge/tooltip",
+        "name": "Tooltip",
+        "order": "01",
+        "category": "Linear Gauge",
+        "data": {
+            "sample-name": "Tooltip",
+            "data-path": "/:theme/lineargauge/tooltip"
+        },
+        "uid": "6",
+        "cName": "Linear Gauge",
+        "searchValue": "Linear Gauge Tooltip"
+    },
+    {
+        "path": ":theme/lineargauge/style",
+        "name": "Styles",
+        "order": "01",
+        "category": "Linear Gauge",
+        "data": {
+            "sample-name": "Styles",
+            "data-path": "/:theme/lineargauge/style"
+        },
+        "uid": "7",
+        "cName": "Linear Gauge",
+        "searchValue": "Linear Gauge Styles"
+    },
+    {
+        "path": ":theme/rangenavigator/default",
+        "name": "Default",
+        "order": "01",
+        "category": "Range Navigator",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/rangenavigator/default"
+        },
+        "uid": "0",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Default"
+    },
+    {
+        "path": ":theme/rangenavigator/light-weight",
+        "name": "Lightweight",
+        "order": "01",
+        "category": "Range Navigator",
+        "data": {
+            "sample-name": "Lightweight",
+            "data-path": "/:theme/rangenavigator/light-weight"
+        },
+        "uid": "1",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Lightweight"
+    },
+    {
+        "path": ":theme/rangenavigator/date-time",
+        "name": "Date Time",
+        "order": "02",
+        "category": "Axis",
+        "data": {
+            "sample-name": "Date Time",
+            "data-path": "/:theme/rangenavigator/date-time"
+        },
+        "uid": "2",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Date Time"
+    },
+    {
+        "path": ":theme/rangenavigator/double",
+        "name": "Numeric Axis",
+        "order": "02",
+        "category": "Axis",
+        "data": {
+            "sample-name": "Numeric Axis",
+            "data-path": "/:theme/rangenavigator/double"
+        },
+        "uid": "3",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Numeric Axis"
+    },
+    {
+        "path": ":theme/rangenavigator/logarithmic",
+        "name": "Logarithmic Axis",
+        "order": "02",
+        "category": "Axis",
+        "data": {
+            "sample-name": "Logarithmic Axis",
+            "data-path": "/:theme/rangenavigator/logarithmic"
+        },
+        "uid": "4",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Logarithmic Axis"
+    },
+    {
+        "path": ":theme/rangenavigator/multilevel",
+        "name": "Multilevel Labels",
+        "order": "02",
+        "category": "Axis",
+        "data": {
+            "sample-name": "Multilevel Labels",
+            "data-path": "/:theme/rangenavigator/multilevel"
+        },
+        "uid": "5",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Multilevel Labels"
+    },
+    {
+        "path": ":theme/rangenavigator/period-default",
+        "name": "Default",
+        "order": "03",
+        "category": "Period Selector",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/rangenavigator/period-default"
+        },
+        "uid": "6",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Default"
+    },
+    {
+        "path": ":theme/rangenavigator/stock-chart",
+        "name": "Stock Chart",
+        "order": "03",
+        "category": "Period Selector",
+        "data": {
+            "sample-name": "Stock Chart",
+            "data-path": "/:theme/rangenavigator/stock-chart"
+        },
+        "uid": "7",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Stock Chart"
+    },
+    {
+        "path": ":theme/rangenavigator/emptydata",
+        "name": "Empty Points",
+        "order": "04",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Empty Points",
+            "data-path": "/:theme/rangenavigator/emptydata"
+        },
+        "uid": "8",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Empty Points"
+    },
+    {
+        "path": ":theme/rangenavigator/filter",
+        "name": "Filter",
+        "order": "04",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Filter",
+            "data-path": "/:theme/rangenavigator/filter"
+        },
+        "uid": "9",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Filter"
+    },
+    {
+        "path": ":theme/rangenavigator/export",
+        "name": "Print and Export",
+        "order": "05",
+        "category": "Print and Export",
+        "data": {
+            "sample-name": "Print and Export",
+            "data-path": "/:theme/rangenavigator/export"
+        },
+        "uid": "10",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator Print and Export"
+    },
+    {
+        "path": ":theme/rangenavigator/rtl",
+        "name": "RTL",
+        "order": "06",
+        "category": "RTL",
+        "data": {
+            "sample-name": "RTL",
+            "data-path": "/:theme/rangenavigator/rtl"
+        },
+        "uid": "11",
+        "cName": "Range Navigator",
+        "searchValue": "Range Navigator RTL"
+    },
+    {
+        "path": ":theme/sparkline/default",
+        "name": "Default",
+        "order": "01",
+        "category": "Sparkline",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/sparkline/default"
+        },
+        "uid": "0",
+        "cName": "Sparkline",
+        "searchValue": "Sparkline Default"
+    },
+    {
+        "path": ":theme/sparkline/seriestype",
+        "name": "Series Types",
+        "order": "01",
+        "category": "Sparkline",
+        "data": {
+            "sample-name": "Series Types",
+            "data-path": "/:theme/sparkline/seriestype"
+        },
+        "uid": "1",
+        "cName": "Sparkline",
+        "searchValue": "Sparkline Series Types"
+    },
+    {
+        "path": ":theme/sparkline/axistype",
+        "name": "Axis value types",
+        "order": "01",
+        "category": "Sparkline",
+        "data": {
+            "sample-name": "Axis value types",
+            "data-path": "/:theme/sparkline/axistype"
+        },
+        "uid": "2",
+        "cName": "Sparkline",
+        "searchValue": "Sparkline Axis value types"
+    },
+    {
+        "path": ":theme/sparkline/sparklinegrid",
+        "name": "Sparkline in Grid",
+        "order": "01",
+        "category": "Sparkline",
+        "data": {
+            "sample-name": "Sparkline in Grid",
+            "data-path": "/:theme/sparkline/sparklinegrid"
+        },
+        "uid": "3",
+        "cName": "Sparkline",
+        "searchValue": "Sparkline Sparkline in Grid"
+    },
+    {
+        "path": ":theme/sparkline/customization",
+        "name": "Customization",
+        "order": "01",
+        "category": "Sparkline",
+        "data": {
+            "sample-name": "Customization",
+            "data-path": "/:theme/sparkline/customization"
+        },
+        "uid": "4",
+        "cName": "Sparkline",
+        "searchValue": "Sparkline Customization"
+    },
+    {
+        "path": ":theme/sparkline/liveupdate",
+        "name": "Live Update",
+        "order": "01",
+        "category": "Sparkline",
+        "data": {
+            "sample-name": "Live Update",
+            "data-path": "/:theme/sparkline/liveupdate"
+        },
+        "uid": "5",
+        "cName": "Sparkline",
+        "searchValue": "Sparkline Live Update"
+    },
+    {
+        "path": ":theme/sparkline/rangeband",
+        "name": "Range Band",
+        "order": "01",
+        "category": "Sparkline",
+        "data": {
+            "sample-name": "Range Band",
+            "data-path": "/:theme/sparkline/rangeband"
+        },
+        "uid": "6",
+        "cName": "Sparkline",
+        "searchValue": "Sparkline Range Band"
+    },
+    {
+        "path": ":theme/smithchart/default",
+        "name": "Default",
+        "order": "01",
+        "category": "Smith Chart",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/smithchart/default"
+        },
+        "uid": "0",
+        "cName": "Smith Chart",
+        "searchValue": "Smith Chart Default"
+    },
+    {
+        "path": ":theme/smithchart/custom",
+        "name": "Customization",
+        "order": "01",
+        "category": "Smith Chart",
+        "data": {
+            "sample-name": "Customization",
+            "data-path": "/:theme/smithchart/custom"
+        },
+        "uid": "1",
+        "cName": "Smith Chart",
+        "searchValue": "Smith Chart Customization"
+    },
+    {
+        "path": ":theme/smithchart/print_export",
+        "name": "Print and Export",
+        "order": "01",
+        "category": "Smith Chart",
+        "data": {
+            "sample-name": "Print and Export",
+            "data-path": "/:theme/smithchart/print_export"
+        },
+        "uid": "2",
+        "cName": "Smith Chart",
+        "searchValue": "Smith Chart Print and Export"
+    },
+    {
+        "path": ":theme/schedule/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "Schedule",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/schedule/default"
+        },
+        "uid": "0",
+        "cName": "Schedule",
+        "searchValue": "Schedule Default Functionalities"
+    },
+    {
+        "path": ":theme/schedule/default-events",
+        "name": "Normal",
+        "order": "02",
+        "category": "Appointments",
+        "data": {
+            "sample-name": "Normal",
+            "data-path": "/:theme/schedule/default-events"
+        },
+        "uid": "1",
+        "cName": "Schedule",
+        "searchValue": "Schedule Normal"
+    },
+    {
+        "path": ":theme/schedule/recurrence-events",
+        "name": "Recurrence",
+        "order": "02",
+        "category": "Appointments",
+        "data": {
+            "sample-name": "Recurrence",
+            "data-path": "/:theme/schedule/recurrence-events"
+        },
+        "uid": "2",
+        "cName": "Schedule",
+        "searchValue": "Schedule Recurrence"
+    },
+    {
+        "path": ":theme/schedule/timezone-event",
+        "name": "Timezone",
+        "order": "02",
+        "category": "Appointments",
+        "data": {
+            "sample-name": "Timezone",
+            "data-path": "/:theme/schedule/timezone-event"
+        },
+        "uid": "3",
+        "cName": "Schedule",
+        "searchValue": "Schedule Timezone"
+    },
+    {
+        "path": ":theme/schedule/views",
+        "name": "Basic",
+        "order": "03",
+        "category": "Views",
+        "data": {
+            "sample-name": "Basic",
+            "data-path": "/:theme/schedule/views"
+        },
+        "uid": "4",
+        "cName": "Schedule",
+        "searchValue": "Schedule Basic"
+    },
+    {
+        "path": ":theme/schedule/agenda",
+        "name": "Agenda",
+        "order": "03",
+        "category": "Views",
+        "data": {
+            "sample-name": "Agenda",
+            "data-path": "/:theme/schedule/agenda"
+        },
+        "uid": "5",
+        "cName": "Schedule",
+        "searchValue": "Schedule Agenda"
+    },
+    {
+        "path": ":theme/schedule/month-agenda",
+        "name": "Month Agenda",
+        "order": "03",
+        "category": "Views",
+        "data": {
+            "sample-name": "Month Agenda",
+            "data-path": "/:theme/schedule/month-agenda"
+        },
+        "uid": "6",
+        "cName": "Schedule",
+        "searchValue": "Schedule Month Agenda"
+    },
+    {
+        "path": ":theme/schedule/view-config",
+        "name": "View-based Settings",
+        "order": "03",
+        "category": "Views",
+        "data": {
+            "sample-name": "View-based Settings",
+            "data-path": "/:theme/schedule/view-config"
+        },
+        "uid": "7",
+        "cName": "Schedule",
+        "searchValue": "Schedule View-based Settings"
+    },
+    {
+        "path": ":theme/schedule/extended-views",
+        "name": "Extended views",
+        "order": "03",
+        "category": "Views",
+        "data": {
+            "sample-name": "Extended views",
+            "data-path": "/:theme/schedule/extended-views"
+        },
+        "uid": "8",
+        "cName": "Schedule",
+        "searchValue": "Schedule Extended views"
+    },
+    {
+        "path": ":theme/schedule/resources",
+        "name": "Fare Calendar",
+        "order": "04",
+        "category": "Resources",
+        "data": {
+            "sample-name": "Fare Calendar",
+            "data-path": "/:theme/schedule/resources"
+        },
+        "uid": "9",
+        "cName": "Schedule",
+        "searchValue": "Schedule Fare Calendar"
+    },
+    {
+        "path": ":theme/schedule/group",
+        "name": "Grouping",
+        "order": "04",
+        "category": "Resources",
+        "data": {
+            "sample-name": "Grouping",
+            "data-path": "/:theme/schedule/group"
+        },
+        "uid": "10",
+        "cName": "Schedule",
+        "searchValue": "Schedule Grouping"
+    },
+    {
+        "path": ":theme/schedule/group-bydate",
+        "name": "Group By Date",
+        "order": "04",
+        "category": "Resources",
+        "data": {
+            "sample-name": "Group By Date",
+            "data-path": "/:theme/schedule/group-bydate"
+        },
+        "uid": "11",
+        "cName": "Schedule",
+        "searchValue": "Schedule Group By Date"
+    },
+    {
+        "path": ":theme/schedule/group-bychild",
+        "name": "Group By Level",
+        "order": "04",
+        "category": "Resources",
+        "data": {
+            "sample-name": "Group By Level",
+            "data-path": "/:theme/schedule/group-bychild"
+        },
+        "uid": "12",
+        "cName": "Schedule",
+        "searchValue": "Schedule Group By Level"
+    },
+    {
+        "path": ":theme/schedule/group-editing",
+        "name": "Grouped Events",
+        "order": "04",
+        "category": "Resources",
+        "data": {
+            "sample-name": "Grouped Events",
+            "data-path": "/:theme/schedule/group-editing"
+        },
+        "uid": "13",
+        "cName": "Schedule",
+        "searchValue": "Schedule Grouped Events"
+    },
+    {
+        "path": ":theme/schedule/group-custom-work-days",
+        "name": "Customized Workdays",
+        "order": "04",
+        "category": "Resources",
+        "data": {
+            "sample-name": "Customized Workdays",
+            "data-path": "/:theme/schedule/group-custom-work-days"
+        },
+        "uid": "14",
+        "cName": "Schedule",
+        "searchValue": "Schedule Customized Workdays"
+    },
+    {
+        "path": ":theme/schedule/add-remove-resources",
+        "name": "Show/Hide Resources",
+        "order": "04",
+        "category": "Resources",
+        "data": {
+            "sample-name": "Show/Hide Resources",
+            "data-path": "/:theme/schedule/add-remove-resources"
+        },
+        "uid": "15",
+        "cName": "Schedule",
+        "searchValue": "Schedule Show/Hide Resources"
+    },
+    {
+        "path": ":theme/schedule/local-data",
+        "name": "Local Data",
+        "order": "05",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Local Data",
+            "data-path": "/:theme/schedule/local-data"
+        },
+        "uid": "16",
+        "cName": "Schedule",
+        "searchValue": "Schedule Local Data"
+    },
+    {
+        "path": ":theme/schedule/remote-data",
+        "name": "Remote Data",
+        "order": "05",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Remote Data",
+            "data-path": "/:theme/schedule/remote-data"
+        },
+        "uid": "17",
+        "cName": "Schedule",
+        "searchValue": "Schedule Remote Data"
+    },
+    {
+        "path": ":theme/schedule/cell-template",
+        "name": "Cells",
+        "order": "06",
+        "category": "Template",
+        "data": {
+            "sample-name": "Cells",
+            "data-path": "/:theme/schedule/cell-template"
+        },
+        "uid": "18",
+        "cName": "Schedule",
+        "searchValue": "Schedule Cells"
+    },
+    {
+        "path": ":theme/schedule/dateheader-template",
+        "name": "Date Header",
+        "order": "06",
+        "category": "Template",
+        "data": {
+            "sample-name": "Date Header",
+            "data-path": "/:theme/schedule/dateheader-template"
+        },
+        "uid": "19",
+        "cName": "Schedule",
+        "searchValue": "Schedule Date Header"
+    },
+    {
+        "path": ":theme/schedule/events-template",
+        "name": "Events",
+        "order": "06",
+        "category": "Template",
+        "data": {
+            "sample-name": "Events",
+            "data-path": "/:theme/schedule/events-template"
+        },
+        "uid": "20",
+        "cName": "Schedule",
+        "searchValue": "Schedule Events"
+    },
+    {
+        "path": ":theme/schedule/tooltip",
+        "name": "Tooltip",
+        "order": "06",
+        "category": "Template",
+        "data": {
+            "sample-name": "Tooltip",
+            "data-path": "/:theme/schedule/tooltip"
+        },
+        "uid": "21",
+        "cName": "Schedule",
+        "searchValue": "Schedule Tooltip"
+    },
+    {
+        "path": ":theme/schedule/editor-validation",
+        "name": "Field Validation",
+        "order": "07",
+        "category": "Editor",
+        "data": {
+            "sample-name": "Field Validation",
+            "data-path": "/:theme/schedule/editor-validation"
+        },
+        "uid": "22",
+        "cName": "Schedule",
+        "searchValue": "Schedule Field Validation"
+    },
+    {
+        "path": ":theme/schedule/editor-custom-field",
+        "name": "Additional Fields",
+        "order": "07",
+        "category": "Editor",
+        "data": {
+            "sample-name": "Additional Fields",
+            "data-path": "/:theme/schedule/editor-custom-field"
+        },
+        "uid": "23",
+        "cName": "Schedule",
+        "searchValue": "Schedule Additional Fields"
+    },
+    {
+        "path": ":theme/schedule/editor-template",
+        "name": "Editor Template",
+        "order": "07",
+        "category": "Editor",
+        "data": {
+            "sample-name": "Editor Template",
+            "data-path": "/:theme/schedule/editor-template"
+        },
+        "uid": "24",
+        "cName": "Schedule",
+        "searchValue": "Schedule Editor Template"
+    },
+    {
+        "path": ":theme/schedule/timescale",
+        "name": "Time Scale",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Time Scale",
+            "data-path": "/:theme/schedule/timescale"
+        },
+        "uid": "25",
+        "cName": "Schedule",
+        "searchValue": "Schedule Time Scale"
+    },
+    {
+        "path": ":theme/schedule/header-bar",
+        "name": "Header Bar",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Header Bar",
+            "data-path": "/:theme/schedule/header-bar"
+        },
+        "uid": "26",
+        "cName": "Schedule",
+        "searchValue": "Schedule Header Bar"
+    },
+    {
+        "path": ":theme/schedule/scroll-time",
+        "name": "Scroll Time",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Scroll Time",
+            "data-path": "/:theme/schedule/scroll-time"
+        },
+        "uid": "27",
+        "cName": "Schedule",
+        "searchValue": "Schedule Scroll Time"
+    },
+    {
+        "path": ":theme/schedule/work-days",
+        "name": "Work Days",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Work Days",
+            "data-path": "/:theme/schedule/work-days"
+        },
+        "uid": "28",
+        "cName": "Schedule",
+        "searchValue": "Schedule Work Days"
+    },
+    {
+        "path": ":theme/schedule/hide-weekend",
+        "name": "Hide Weekend",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Hide Weekend",
+            "data-path": "/:theme/schedule/hide-weekend"
+        },
+        "uid": "29",
+        "cName": "Schedule",
+        "searchValue": "Schedule Hide Weekend"
+    },
+    {
+        "path": ":theme/schedule/work-hours",
+        "name": "Work Hours",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Work Hours",
+            "data-path": "/:theme/schedule/work-hours"
+        },
+        "uid": "30",
+        "cName": "Schedule",
+        "searchValue": "Schedule Work Hours"
+    },
+    {
+        "path": ":theme/schedule/start-end-hour",
+        "name": "Day Hour Limit",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Day Hour Limit",
+            "data-path": "/:theme/schedule/start-end-hour"
+        },
+        "uid": "31",
+        "cName": "Schedule",
+        "searchValue": "Schedule Day Hour Limit"
+    },
+    {
+        "path": ":theme/schedule/cell-dimension",
+        "name": "Cell Dimension",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Cell Dimension",
+            "data-path": "/:theme/schedule/cell-dimension"
+        },
+        "uid": "32",
+        "cName": "Schedule",
+        "searchValue": "Schedule Cell Dimension"
+    },
+    {
+        "path": ":theme/schedule/readonly",
+        "name": "Readonly Events",
+        "order": "08",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Readonly Events",
+            "data-path": "/:theme/schedule/readonly"
+        },
+        "uid": "33",
+        "cName": "Schedule",
+        "searchValue": "Schedule Readonly Events"
+    },
+    {
+        "path": ":theme/schedule/rec-editor-generaterule",
+        "name": "Rule Generator",
+        "order": "09",
+        "category": "Recurrence Editor",
+        "data": {
+            "sample-name": "Rule Generator",
+            "data-path": "/:theme/schedule/rec-editor-generaterule"
+        },
+        "uid": "34",
+        "cName": "Schedule",
+        "searchValue": "Schedule Rule Generator"
+    },
+    {
+        "path": ":theme/schedule/recurrence-editor-populate",
+        "name": "Populate Rule",
+        "order": "09",
+        "category": "Recurrence Editor",
+        "data": {
+            "sample-name": "Populate Rule",
+            "data-path": "/:theme/schedule/recurrence-editor-populate"
+        },
+        "uid": "35",
+        "cName": "Schedule",
+        "searchValue": "Schedule Populate Rule"
+    },
+    {
+        "path": ":theme/schedule/keyboard",
+        "name": "Keyboard Interaction",
+        "order": "10",
+        "category": "Miscellaneous",
+        "data": {
+            "sample-name": "Keyboard Interaction",
+            "data-path": "/:theme/schedule/keyboard"
+        },
+        "uid": "36",
+        "cName": "Schedule",
+        "searchValue": "Schedule Keyboard Interaction"
+    },
+    {
+        "path": ":theme/schedule/events",
+        "name": "Events",
+        "order": "10",
+        "category": "Miscellaneous",
+        "data": {
+            "sample-name": "Events",
+            "data-path": "/:theme/schedule/events"
+        },
+        "uid": "37",
+        "cName": "Schedule",
+        "searchValue": "Schedule Events"
+    },
+    {
+        "path": ":theme/grid/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "Grid",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/grid/default"
+        },
+        "uid": "0",
+        "cName": "Grid",
+        "searchValue": "Grid Default Functionalities"
+    },
+    {
+        "path": ":theme/grid/grouping",
+        "name": "Grouping",
+        "order": "01",
+        "category": "Grid",
+        "data": {
+            "sample-name": "Grouping",
+            "data-path": "/:theme/grid/grouping"
+        },
+        "uid": "1",
+        "cName": "Grid",
+        "searchValue": "Grid Grouping"
+    },
+    {
+        "path": ":theme/grid/gridlines",
+        "name": "Grid Lines",
+        "order": "01",
+        "category": "Grid",
+        "data": {
+            "sample-name": "Grid Lines",
+            "data-path": "/:theme/grid/gridlines"
+        },
+        "uid": "2",
+        "cName": "Grid",
+        "searchValue": "Grid Grid Lines"
+    },
+    {
+        "path": ":theme/grid/hierarchy",
+        "name": "Hierarchy Grid",
+        "order": "01",
+        "category": "Grid",
+        "data": {
+            "sample-name": "Hierarchy Grid",
+            "data-path": "/:theme/grid/hierarchy"
+        },
+        "uid": "3",
+        "cName": "Grid",
+        "searchValue": "Grid Hierarchy Grid"
+    },
+    {
+        "path": ":theme/grid/clipboard",
+        "name": "Clipboard",
+        "order": "01",
+        "category": "Grid",
+        "data": {
+            "sample-name": "Clipboard",
+            "data-path": "/:theme/grid/clipboard"
+        },
+        "uid": "4",
+        "cName": "Grid",
+        "searchValue": "Grid Clipboard"
+    },
+    {
+        "path": ":theme/grid/contextmenu",
+        "name": "Context Menu",
+        "order": "01",
+        "category": "Grid",
+        "data": {
+            "sample-name": "Context Menu",
+            "data-path": "/:theme/grid/contextmenu"
+        },
+        "uid": "5",
+        "cName": "Grid",
+        "searchValue": "Grid Context Menu"
+    },
+    {
+        "path": ":theme/grid/masterdetail",
+        "name": "Master/Detail",
+        "order": "01",
+        "category": "Grid",
+        "data": {
+            "sample-name": "Master/Detail",
+            "data-path": "/:theme/grid/masterdetail"
+        },
+        "uid": "6",
+        "cName": "Grid",
+        "searchValue": "Grid Master/Detail"
+    },
+    {
+        "path": ":theme/grid/scrolling",
+        "name": "Default Scrolling",
+        "order": "02",
+        "category": "Scrolling",
+        "data": {
+            "sample-name": "Default Scrolling",
+            "data-path": "/:theme/grid/scrolling"
+        },
+        "uid": "7",
+        "cName": "Grid",
+        "searchValue": "Grid Default Scrolling"
+    },
+    {
+        "path": ":theme/grid/virtualization",
+        "name": "Virtual Scrolling",
+        "order": "02",
+        "category": "Scrolling",
+        "data": {
+            "sample-name": "Virtual Scrolling",
+            "data-path": "/:theme/grid/virtualization"
+        },
+        "uid": "8",
+        "cName": "Grid",
+        "searchValue": "Grid Virtual Scrolling"
+    },
+    {
+        "path": ":theme/grid/localdata",
+        "name": "Local Data",
+        "order": "03",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Local Data",
+            "data-path": "/:theme/grid/localdata"
+        },
+        "uid": "9",
+        "cName": "Grid",
+        "searchValue": "Grid Local Data"
+    },
+    {
+        "path": ":theme/grid/remotedata",
+        "name": "Remote Data",
+        "order": "03",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Remote Data",
+            "data-path": "/:theme/grid/remotedata"
+        },
+        "uid": "10",
+        "cName": "Grid",
+        "searchValue": "Grid Remote Data"
+    },
+    {
+        "path": ":theme/grid/column/autowrap",
+        "name": "AutoWrap Column cells",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "AutoWrap Column cells",
+            "data-path": "/:theme/grid/column/autowrap"
+        },
+        "uid": "11",
+        "cName": "Grid",
+        "searchValue": "Grid AutoWrap Column cells"
+    },
+    {
+        "path": ":theme/grid/column/showhide",
+        "name": "Show or Hide Column",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Show or Hide Column",
+            "data-path": "/:theme/grid/column/showhide"
+        },
+        "uid": "12",
+        "cName": "Grid",
+        "searchValue": "Grid Show or Hide Column"
+    },
+    {
+        "path": ":theme/grid/columntemplate",
+        "name": "Column Template",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Column Template",
+            "data-path": "/:theme/grid/columntemplate"
+        },
+        "uid": "13",
+        "cName": "Grid",
+        "searchValue": "Grid Column Template"
+    },
+    {
+        "path": ":theme/grid/column/stackedheader",
+        "name": "Stacked Header",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Stacked Header",
+            "data-path": "/:theme/grid/column/stackedheader"
+        },
+        "uid": "14",
+        "cName": "Grid",
+        "searchValue": "Grid Stacked Header"
+    },
+    {
+        "path": ":theme/grid/column/reorder",
+        "name": "Reorder",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Reorder",
+            "data-path": "/:theme/grid/column/reorder"
+        },
+        "uid": "15",
+        "cName": "Grid",
+        "searchValue": "Grid Reorder"
+    },
+    {
+        "path": ":theme/grid/columnchooser",
+        "name": "Column Chooser",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Column Chooser",
+            "data-path": "/:theme/grid/columnchooser"
+        },
+        "uid": "16",
+        "cName": "Grid",
+        "searchValue": "Grid Column Chooser"
+    },
+    {
+        "path": ":theme/grid/column/columnresizing",
+        "name": "Column Resize",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Column Resize",
+            "data-path": "/:theme/grid/column/columnresizing"
+        },
+        "uid": "17",
+        "cName": "Grid",
+        "searchValue": "Grid Column Resize"
+    },
+    {
+        "path": ":theme/grid/column/columnspanning",
+        "name": "Column Spanning",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Column Spanning",
+            "data-path": "/:theme/grid/column/columnspanning"
+        },
+        "uid": "18",
+        "cName": "Grid",
+        "searchValue": "Grid Column Spanning"
+    },
+    {
+        "path": ":theme/grid/column/frozenrows",
+        "name": "Frozen Rows and Columns",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Frozen Rows and Columns",
+            "data-path": "/:theme/grid/column/frozenrows"
+        },
+        "uid": "19",
+        "cName": "Grid",
+        "searchValue": "Grid Frozen Rows and Columns"
+    },
+    {
+        "path": ":theme/grid/column/columnmenu",
+        "name": "Column Menu",
+        "order": "04",
+        "category": "Columns",
+        "data": {
+            "sample-name": "Column Menu",
+            "data-path": "/:theme/grid/column/columnmenu"
+        },
+        "uid": "20",
+        "cName": "Grid",
+        "searchValue": "Grid Column Menu"
+    },
+    {
+        "path": ":theme/grid/column/foreignkey",
+        "name": "Foreign Key Column",
+        "order": "04",
+        "category": "Columns",
+        "type": "new",
+        "data": {
+            "sample-name": "Foreign Key Column",
+            "data-path": "/:theme/grid/column/foreignkey"
+        },
+        "uid": "21",
+        "cName": "Grid",
+        "searchValue": "Grid Foreign Key Column"
+    },
+    {
+        "path": ":theme/grid/rowtemplate",
+        "name": "Row Template",
+        "order": "05",
+        "category": "Rows",
+        "data": {
+            "sample-name": "Row Template",
+            "data-path": "/:theme/grid/rowtemplate"
+        },
+        "uid": "22",
+        "cName": "Grid",
+        "searchValue": "Grid Row Template"
+    },
+    {
+        "path": ":theme/grid/detailtemplate",
+        "name": "Detail Template",
+        "order": "05",
+        "category": "Rows",
+        "data": {
+            "sample-name": "Detail Template",
+            "data-path": "/:theme/grid/detailtemplate"
+        },
+        "uid": "23",
+        "cName": "Grid",
+        "searchValue": "Grid Detail Template"
+    },
+    {
+        "path": ":theme/grid/rowheight",
+        "name": "Row Height",
+        "order": "05",
+        "category": "Rows",
+        "type": "new",
+        "data": {
+            "sample-name": "Row Height",
+            "data-path": "/:theme/grid/rowheight"
+        },
+        "uid": "24",
+        "cName": "Grid",
+        "searchValue": "Grid Row Height"
+    },
+    {
+        "path": ":theme/grid/draganddrop",
+        "name": "Row Drag And Drop",
+        "order": "05",
+        "category": "Rows",
+        "hideOnDevice": true,
+        "data": {
+            "sample-name": "Row Drag And Drop",
+            "data-path": "/:theme/grid/draganddrop"
+        },
+        "uid": "25",
+        "cName": "Grid",
+        "searchValue": "Grid Row Drag And Drop"
+    },
+    {
+        "path": ":theme/grid/sorting",
+        "name": "Sorting",
+        "order": "06",
+        "category": "Sorting",
+        "data": {
+            "sample-name": "Sorting",
+            "data-path": "/:theme/grid/sorting"
+        },
+        "uid": "26",
+        "cName": "Grid",
+        "searchValue": "Grid Sorting"
+    },
+    {
+        "path": ":theme/grid/filtering",
+        "name": "Default Filtering",
+        "order": "07",
+        "category": "Filtering",
+        "data": {
+            "sample-name": "Default Filtering",
+            "data-path": "/:theme/grid/filtering"
+        },
+        "uid": "27",
+        "cName": "Grid",
+        "searchValue": "Grid Default Filtering"
+    },
+    {
+        "path": ":theme/grid/filtermenu",
+        "name": "Filter Menu",
+        "order": "07",
+        "category": "Filtering",
+        "type": "update",
+        "data": {
+            "sample-name": "Filter Menu",
+            "data-path": "/:theme/grid/filtermenu"
+        },
+        "uid": "28",
+        "cName": "Grid",
+        "searchValue": "Grid Filter Menu"
+    },
+    {
+        "path": ":theme/grid/searching",
+        "name": "Search",
+        "order": "07",
+        "category": "Filtering",
+        "data": {
+            "sample-name": "Search",
+            "data-path": "/:theme/grid/searching"
+        },
+        "uid": "29",
+        "cName": "Grid",
+        "searchValue": "Grid Search"
+    },
+    {
+        "path": ":theme/grid/paging",
+        "name": "Paging",
+        "order": "08",
+        "category": "Paging",
+        "data": {
+            "sample-name": "Paging",
+            "data-path": "/:theme/grid/paging"
+        },
+        "uid": "30",
+        "cName": "Grid",
+        "searchValue": "Grid Paging"
+    },
+    {
+        "path": ":theme/grid/selection",
+        "name": "Default Selection",
+        "order": "09",
+        "category": "Selection",
+        "data": {
+            "sample-name": "Default Selection",
+            "data-path": "/:theme/grid/selection"
+        },
+        "uid": "31",
+        "cName": "Grid",
+        "searchValue": "Grid Default Selection"
+    },
+    {
+        "path": ":theme/grid/selectionapi",
+        "name": "Selection API",
+        "order": "09",
+        "category": "Selection",
+        "data": {
+            "sample-name": "Selection API",
+            "data-path": "/:theme/grid/selectionapi"
+        },
+        "uid": "32",
+        "cName": "Grid",
+        "searchValue": "Grid Selection API"
+    },
+    {
+        "path": ":theme/grid/checkboxselection",
+        "name": "Checkbox Selection",
+        "order": "09",
+        "category": "Selection",
+        "data": {
+            "sample-name": "Checkbox Selection",
+            "data-path": "/:theme/grid/checkboxselection"
+        },
+        "uid": "33",
+        "cName": "Grid",
+        "searchValue": "Grid Checkbox Selection"
+    },
+    {
+        "path": ":theme/grid/aggregatedefault",
+        "name": "Default Aggregate",
+        "order": "10",
+        "category": "Aggregate",
+        "data": {
+            "sample-name": "Default Aggregate",
+            "data-path": "/:theme/grid/aggregatedefault"
+        },
+        "uid": "34",
+        "cName": "Grid",
+        "searchValue": "Grid Default Aggregate"
+    },
+    {
+        "path": ":theme/grid/aggregategroup",
+        "name": "Group and Caption aggregate",
+        "order": "10",
+        "category": "Aggregate",
+        "data": {
+            "sample-name": "Group and Caption aggregate",
+            "data-path": "/:theme/grid/aggregategroup"
+        },
+        "uid": "35",
+        "cName": "Grid",
+        "searchValue": "Grid Group and Caption aggregate"
+    },
+    {
+        "path": ":theme/grid/normal-edit",
+        "name": "Inline Editing",
+        "order": "11",
+        "category": "Editing",
+        "data": {
+            "sample-name": "Inline Editing",
+            "data-path": "/:theme/grid/normal-edit"
+        },
+        "uid": "36",
+        "cName": "Grid",
+        "searchValue": "Grid Inline Editing"
+    },
+    {
+        "path": ":theme/grid/dialog-editing",
+        "name": "Dialog Editing",
+        "order": "11",
+        "category": "Editing",
+        "data": {
+            "sample-name": "Dialog Editing",
+            "data-path": "/:theme/grid/dialog-editing"
+        },
+        "uid": "37",
+        "cName": "Grid",
+        "searchValue": "Grid Dialog Editing"
+    },
+    {
+        "path": ":theme/grid/batch-editing",
+        "name": "Batch Editing",
+        "order": "11",
+        "category": "Editing",
+        "data": {
+            "sample-name": "Batch Editing",
+            "data-path": "/:theme/grid/batch-editing"
+        },
+        "uid": "38",
+        "cName": "Grid",
+        "searchValue": "Grid Batch Editing"
+    },
+    {
+        "path": ":theme/grid/command-column",
+        "name": "Command Column",
+        "order": "11",
+        "category": "Editing",
+        "data": {
+            "sample-name": "Command Column",
+            "data-path": "/:theme/grid/command-column"
+        },
+        "uid": "39",
+        "cName": "Grid",
+        "searchValue": "Grid Command Column"
+    },
+    {
+        "path": ":theme/grid/default-exporting",
+        "name": "Default Exporting",
+        "order": "12",
+        "category": "Exporting",
+        "data": {
+            "sample-name": "Default Exporting",
+            "data-path": "/:theme/grid/default-exporting"
+        },
+        "uid": "40",
+        "cName": "Grid",
+        "searchValue": "Grid Default Exporting"
+    },
+    {
+        "path": ":theme/grid/advanced-exporting",
+        "name": "Advanced Exporting",
+        "order": "12",
+        "category": "Exporting",
+        "data": {
+            "sample-name": "Advanced Exporting",
+            "data-path": "/:theme/grid/advanced-exporting"
+        },
+        "uid": "41",
+        "cName": "Grid",
+        "searchValue": "Grid Advanced Exporting"
+    },
+    {
+        "path": ":theme/pivotview/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "Pivot Grid",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/pivotview/default"
+        },
+        "uid": "0",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Default Functionalities"
+    },
+    {
+        "path": ":theme/pivotview/local",
+        "name": "Local Data",
+        "order": "02",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Local Data",
+            "data-path": "/:theme/pivotview/local"
+        },
+        "uid": "1",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Local Data"
+    },
+    {
+        "path": ":theme/pivotview/remote",
+        "name": "Remote Data",
+        "order": "02",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Remote Data",
+            "data-path": "/:theme/pivotview/remote"
+        },
+        "uid": "2",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Remote Data"
+    },
+    {
+        "path": ":theme/pivotview/field-list",
+        "name": "Field List",
+        "order": "03",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Field List",
+            "data-path": "/:theme/pivotview/field-list"
+        },
+        "uid": "3",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Field List"
+    },
+    {
+        "path": ":theme/pivotview/grouping-bar",
+        "name": "Grouping Bar",
+        "order": "03",
+        "category": "User Interaction",
+        "data": {
+            "sample-name": "Grouping Bar",
+            "data-path": "/:theme/pivotview/grouping-bar"
+        },
+        "uid": "4",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Grouping Bar"
+    },
+    {
+        "path": ":theme/pivotview/calculated-field",
+        "name": "Calculated Field",
+        "order": "04",
+        "category": "Formula",
+        "data": {
+            "sample-name": "Calculated Field",
+            "data-path": "/:theme/pivotview/calculated-field"
+        },
+        "uid": "5",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Calculated Field"
+    },
+    {
+        "path": ":theme/pivotview/aggregation",
+        "name": "Aggregation",
+        "order": "04",
+        "category": "Formula",
+        "data": {
+            "sample-name": "Aggregation",
+            "data-path": "/:theme/pivotview/aggregation"
+        },
+        "uid": "6",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Aggregation"
+    },
+    {
+        "path": ":theme/pivotview/sorting",
+        "name": "Default Sorting",
+        "order": "05",
+        "category": "Sorting",
+        "data": {
+            "sample-name": "Default Sorting",
+            "data-path": "/:theme/pivotview/sorting"
+        },
+        "uid": "7",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Default Sorting"
+    },
+    {
+        "path": ":theme/pivotview/valuesorting",
+        "name": "Value Sorting",
+        "order": "05",
+        "category": "Sorting",
+        "data": {
+            "sample-name": "Value Sorting",
+            "data-path": "/:theme/pivotview/valuesorting"
+        },
+        "uid": "8",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Value Sorting"
+    },
+    {
+        "path": ":theme/pivotview/filtering",
+        "name": "Default Filtering",
+        "order": "06",
+        "category": "Filtering",
+        "data": {
+            "sample-name": "Default Filtering",
+            "data-path": "/:theme/pivotview/filtering"
+        },
+        "uid": "9",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Default Filtering"
+    },
+    {
+        "path": ":theme/pivotview/chart",
+        "name": "Chart",
+        "order": "07",
+        "category": "Integration",
+        "data": {
+            "sample-name": "Chart",
+            "data-path": "/:theme/pivotview/chart"
+        },
+        "uid": "10",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Chart"
+    },
+    {
+        "path": ":theme/pivotview/exporting",
+        "name": "Export",
+        "order": "08",
+        "category": "Miscellaneous",
+        "data": {
+            "sample-name": "Export",
+            "data-path": "/:theme/pivotview/exporting"
+        },
+        "uid": "11",
+        "cName": "Pivot Grid",
+        "searchValue": "Pivot Grid Export"
+    },
+    {
+        "path": ":theme/form-validator/default",
+        "name": "Default Functionalities",
+        "category": "Form Validator",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/form-validator/default"
+        },
+        "uid": "0",
+        "cName": "Form Validator",
+        "searchValue": "Form Validator Default Functionalities"
+    },
+    {
+        "path": ":theme/button/default",
+        "name": "Default Functionalities",
+        "category": "Button",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/button/default"
+        },
+        "uid": "0",
+        "cName": "Button",
+        "searchValue": "Button Default Functionalities"
+    },
+    {
+        "path": ":theme/button/button-group",
+        "name": "ButtonGroup",
+        "category": "Button",
+        "type": "preview",
+        "data": {
+            "sample-name": "ButtonGroup",
+            "data-path": "/:theme/button/button-group"
+        },
+        "uid": "1",
+        "cName": "Button",
+        "searchValue": "Button ButtonGroup"
+    },
+    {
+        "path": ":theme/button/drop-down-button",
+        "name": "DropDownButton",
+        "category": "Button",
+        "data": {
+            "sample-name": "DropDownButton",
+            "data-path": "/:theme/button/drop-down-button"
+        },
+        "uid": "2",
+        "cName": "Button",
+        "searchValue": "Button DropDownButton"
+    },
+    {
+        "path": ":theme/button/check-box",
+        "name": "CheckBox",
+        "category": "Button",
+        "data": {
+            "sample-name": "CheckBox",
+            "data-path": "/:theme/button/check-box"
+        },
+        "uid": "3",
+        "cName": "Button",
+        "searchValue": "Button CheckBox"
+    },
+    {
+        "path": ":theme/button/radio-button",
+        "name": "RadioButton",
+        "category": "Button",
+        "data": {
+            "sample-name": "RadioButton",
+            "data-path": "/:theme/button/radio-button"
+        },
+        "uid": "4",
+        "cName": "Button",
+        "searchValue": "Button RadioButton"
+    },
+    {
+        "path": ":theme/button/split-button",
+        "name": "SplitButton",
+        "category": "Button",
+        "data": {
+            "sample-name": "SplitButton",
+            "data-path": "/:theme/button/split-button"
+        },
+        "uid": "5",
+        "cName": "Button",
+        "searchValue": "Button SplitButton"
+    },
+    {
+        "path": ":theme/button/switch",
+        "name": "Switch",
+        "category": "Button",
+        "type": "preview",
+        "data": {
+            "sample-name": "Switch",
+            "data-path": "/:theme/button/switch"
+        },
+        "uid": "6",
+        "cName": "Button",
+        "searchValue": "Button Switch"
+    },
+    {
+        "path": ":theme/calendar/default",
+        "name": "Default Functionalities",
+        "category": "Calendar",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/calendar/default"
+        },
+        "uid": "0",
+        "cName": "Calendar",
+        "searchValue": "Calendar Default Functionalities"
+    },
+    {
+        "path": ":theme/calendar/special",
+        "name": "Special Dates",
+        "category": "Calendar",
+        "data": {
+            "sample-name": "Special Dates",
+            "data-path": "/:theme/calendar/special"
+        },
+        "uid": "1",
+        "cName": "Calendar",
+        "searchValue": "Calendar Special Dates"
+    },
+    {
+        "path": ":theme/calendar/disabled",
+        "name": "Disable Dates",
+        "category": "Calendar",
+        "data": {
+            "sample-name": "Disable Dates",
+            "data-path": "/:theme/calendar/disabled"
+        },
+        "uid": "2",
+        "cName": "Calendar",
+        "searchValue": "Calendar Disable Dates"
+    },
+    {
+        "path": ":theme/calendar/range",
+        "name": "Date Range",
+        "category": "Calendar",
+        "data": {
+            "sample-name": "Date Range",
+            "data-path": "/:theme/calendar/range"
+        },
+        "uid": "3",
+        "cName": "Calendar",
+        "searchValue": "Calendar Date Range"
+    },
+    {
+        "path": ":theme/datepicker/default",
+        "name": "Default Functionalities",
+        "category": "DatePicker",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/datepicker/default"
+        },
+        "uid": "0",
+        "cName": "DatePicker",
+        "searchValue": "DatePicker Default Functionalities"
+    },
+    {
+        "path": ":theme/datepicker/range",
+        "name": "Date Range",
+        "category": "DatePicker",
+        "data": {
+            "sample-name": "Date Range",
+            "data-path": "/:theme/datepicker/range"
+        },
+        "uid": "1",
+        "cName": "DatePicker",
+        "searchValue": "DatePicker Date Range"
+    },
+    {
+        "path": ":theme/datepicker/format",
+        "name": "Format",
+        "category": "DatePicker",
+        "data": {
+            "sample-name": "Format",
+            "data-path": "/:theme/datepicker/format"
+        },
+        "uid": "2",
+        "cName": "DatePicker",
+        "searchValue": "DatePicker Format"
+    },
+    {
+        "path": ":theme/datepicker/special",
+        "name": "Special Dates",
+        "category": "DatePicker",
+        "data": {
+            "sample-name": "Special Dates",
+            "data-path": "/:theme/datepicker/special"
+        },
+        "uid": "3",
+        "cName": "DatePicker",
+        "searchValue": "DatePicker Special Dates"
+    },
+    {
+        "path": ":theme/datepicker/disabled",
+        "name": "Disable Dates",
+        "category": "DatePicker",
+        "data": {
+            "sample-name": "Disable Dates",
+            "data-path": "/:theme/datepicker/disabled"
+        },
+        "uid": "4",
+        "cName": "DatePicker",
+        "searchValue": "DatePicker Disable Dates"
+    },
+    {
+        "path": ":theme/datetimepicker/default",
+        "name": "Default Functionalities",
+        "category": "DateTimePicker",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/datetimepicker/default"
+        },
+        "uid": "0",
+        "cName": "DateTimePicker",
+        "searchValue": "DateTimePicker Default Functionalities"
+    },
+    {
+        "path": ":theme/datetimepicker/range",
+        "name": "Date Range",
+        "category": "DateTimePicker",
+        "data": {
+            "sample-name": "Date Range",
+            "data-path": "/:theme/datetimepicker/range"
+        },
+        "uid": "1",
+        "cName": "DateTimePicker",
+        "searchValue": "DateTimePicker Date Range"
+    },
+    {
+        "path": ":theme/datetimepicker/format",
+        "name": "Format",
+        "category": "DateTimePicker",
+        "data": {
+            "sample-name": "Format",
+            "data-path": "/:theme/datetimepicker/format"
+        },
+        "uid": "2",
+        "cName": "DateTimePicker",
+        "searchValue": "DateTimePicker Format"
+    },
+    {
+        "path": ":theme/datetimepicker/special",
+        "name": "Special Dates",
+        "category": "DateTimePicker",
+        "data": {
+            "sample-name": "Special Dates",
+            "data-path": "/:theme/datetimepicker/special"
+        },
+        "uid": "3",
+        "cName": "DateTimePicker",
+        "searchValue": "DateTimePicker Special Dates"
+    },
+    {
+        "path": ":theme/datetimepicker/disabled",
+        "name": "Disable Dates",
+        "category": "DateTimePicker",
+        "data": {
+            "sample-name": "Disable Dates",
+            "data-path": "/:theme/datetimepicker/disabled"
+        },
+        "uid": "4",
+        "cName": "DateTimePicker",
+        "searchValue": "DateTimePicker Disable Dates"
+    },
+    {
+        "path": ":theme/daterangepicker/default",
+        "name": "Default Functionalities",
+        "category": "DateRangePicker",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/daterangepicker/default"
+        },
+        "uid": "0",
+        "cName": "DateRangePicker",
+        "searchValue": "DateRangePicker Default Functionalities"
+    },
+    {
+        "path": ":theme/daterangepicker/daterange",
+        "name": "Date Range",
+        "category": "DateRangePicker",
+        "data": {
+            "sample-name": "Date Range",
+            "data-path": "/:theme/daterangepicker/daterange"
+        },
+        "uid": "1",
+        "cName": "DateRangePicker",
+        "searchValue": "DateRangePicker Date Range"
+    },
+    {
+        "path": ":theme/daterangepicker/dayspan",
+        "name": "Day Span",
+        "category": "DateRangePicker",
+        "data": {
+            "sample-name": "Day Span",
+            "data-path": "/:theme/daterangepicker/dayspan"
+        },
+        "uid": "2",
+        "cName": "DateRangePicker",
+        "searchValue": "DateRangePicker Day Span"
+    },
+    {
+        "path": ":theme/daterangepicker/format",
+        "name": "Format",
+        "category": "DateRangePicker",
+        "type": "new",
+        "data": {
+            "sample-name": "Format",
+            "data-path": "/:theme/daterangepicker/format"
+        },
+        "uid": "3",
+        "cName": "DateRangePicker",
+        "searchValue": "DateRangePicker Format"
+    },
+    {
+        "path": ":theme/daterangepicker/presets",
+        "name": "Preset Ranges",
+        "category": "DateRangePicker",
+        "data": {
+            "sample-name": "Preset Ranges",
+            "data-path": "/:theme/daterangepicker/presets"
+        },
+        "uid": "4",
+        "cName": "DateRangePicker",
+        "searchValue": "DateRangePicker Preset Ranges"
+    },
+    {
+        "path": ":theme/dropdownlist/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "DropDownList",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/dropdownlist/default"
+        },
+        "uid": "0",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Default Functionalities"
+    },
+    {
+        "path": ":theme/dropdownlist/groupingicon",
+        "name": "Grouping and Icons",
+        "order": "01",
+        "category": "DropDownList",
+        "data": {
+            "sample-name": "Grouping and Icons",
+            "data-path": "/:theme/dropdownlist/groupingicon"
+        },
+        "uid": "1",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Grouping and Icons"
+    },
+    {
+        "path": ":theme/dropdownlist/databinding",
+        "name": "Data Binding",
+        "order": "01",
+        "category": "DropDownList",
+        "data": {
+            "sample-name": "Data Binding",
+            "data-path": "/:theme/dropdownlist/databinding"
+        },
+        "uid": "2",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Data Binding"
+    },
+    {
+        "path": ":theme/dropdownlist/template",
+        "name": "Template",
+        "order": "01",
+        "category": "DropDownList",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/dropdownlist/template"
+        },
+        "uid": "3",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Template"
+    },
+    {
+        "path": ":theme/dropdownlist/filtering",
+        "name": "Filtering",
+        "order": "01",
+        "category": "DropDownList",
+        "data": {
+            "sample-name": "Filtering",
+            "data-path": "/:theme/dropdownlist/filtering"
+        },
+        "uid": "4",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Filtering"
+    },
+    {
+        "path": ":theme/dropdownlist/cascading",
+        "name": "Cascading",
+        "order": "01",
+        "category": "DropDownList",
+        "data": {
+            "sample-name": "Cascading",
+            "data-path": "/:theme/dropdownlist/cascading"
+        },
+        "uid": "5",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Cascading"
+    },
+    {
+        "path": ":theme/dropdownlist/inline",
+        "name": "Inline",
+        "category": "DropDownList",
+        "order": "01",
+        "data": {
+            "sample-name": "Inline",
+            "data-path": "/:theme/dropdownlist/inline"
+        },
+        "uid": "6",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Inline"
+    },
+    {
+        "path": ":theme/dropdownlist/diacriticsfiltering",
+        "order": "01",
+        "name": "Diacritics Filtering",
+        "category": "DropDownList",
+        "data": {
+            "sample-name": "Diacritics Filtering",
+            "data-path": "/:theme/dropdownlist/diacriticsfiltering"
+        },
+        "uid": "7",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Diacritics Filtering"
+    },
+    {
+        "path": ":theme/dropdownlist/templatedriven",
+        "name": "Template Driven",
+        "order": "02",
+        "category": "Form Support",
+        "data": {
+            "sample-name": "Template Driven",
+            "data-path": "/:theme/dropdownlist/templatedriven"
+        },
+        "uid": "8",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Template Driven"
+    },
+    {
+        "path": ":theme/dropdownlist/reactiveform",
+        "name": "Reactive Form",
+        "order": "02",
+        "category": "Form Support",
+        "data": {
+            "sample-name": "Reactive Form",
+            "data-path": "/:theme/dropdownlist/reactiveform"
+        },
+        "uid": "9",
+        "cName": "DropDownList",
+        "searchValue": "DropDownList Reactive Form"
+    },
+    {
+        "path": ":theme/combobox/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "ComboBox",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/combobox/default"
+        },
+        "uid": "0",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Default Functionalities"
+    },
+    {
+        "path": ":theme/combobox/groupingicon",
+        "name": "Grouping and Icons",
+        "order": "01",
+        "category": "ComboBox",
+        "data": {
+            "sample-name": "Grouping and Icons",
+            "data-path": "/:theme/combobox/groupingicon"
+        },
+        "uid": "1",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Grouping and Icons"
+    },
+    {
+        "path": ":theme/combobox/databinding",
+        "name": "Data Binding",
+        "order": "01",
+        "category": "ComboBox",
+        "data": {
+            "sample-name": "Data Binding",
+            "data-path": "/:theme/combobox/databinding"
+        },
+        "uid": "2",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Data Binding"
+    },
+    {
+        "path": ":theme/combobox/custom-value",
+        "name": "Custom Value",
+        "order": "01",
+        "category": "ComboBox",
+        "data": {
+            "sample-name": "Custom Value",
+            "data-path": "/:theme/combobox/custom-value"
+        },
+        "uid": "3",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Custom Value"
+    },
+    {
+        "path": ":theme/combobox/template",
+        "name": "Template",
+        "order": "01",
+        "category": "ComboBox",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/combobox/template"
+        },
+        "uid": "4",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Template"
+    },
+    {
+        "path": ":theme/combobox/filtering",
+        "name": "Filtering",
+        "order": "01",
+        "category": "ComboBox",
+        "data": {
+            "sample-name": "Filtering",
+            "data-path": "/:theme/combobox/filtering"
+        },
+        "uid": "5",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Filtering"
+    },
+    {
+        "path": ":theme/combobox/cascading",
+        "name": "Cascading",
+        "order": "01",
+        "category": "ComboBox",
+        "data": {
+            "sample-name": "Cascading",
+            "data-path": "/:theme/combobox/cascading"
+        },
+        "uid": "6",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Cascading"
+    },
+    {
+        "path": ":theme/combobox/diacriticsfiltering",
+        "order": "01",
+        "name": "Diacritics Filtering",
+        "category": "ComboBox",
+        "data": {
+            "sample-name": "Diacritics Filtering",
+            "data-path": "/:theme/combobox/diacriticsfiltering"
+        },
+        "uid": "7",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Diacritics Filtering"
+    },
+    {
+        "path": ":theme/combobox/templatedriven",
+        "name": "Template Driven",
+        "order": "02",
+        "category": "Form Support",
+        "data": {
+            "sample-name": "Template Driven",
+            "data-path": "/:theme/combobox/templatedriven"
+        },
+        "uid": "8",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Template Driven"
+    },
+    {
+        "path": ":theme/combobox/reactiveform",
+        "name": "Reactive Form",
+        "order": "02",
+        "category": "Form Support",
+        "data": {
+            "sample-name": "Reactive Form",
+            "data-path": "/:theme/combobox/reactiveform"
+        },
+        "uid": "9",
+        "cName": "ComboBox",
+        "searchValue": "ComboBox Reactive Form"
+    },
+    {
+        "path": ":theme/autocomplete/default",
+        "order": "01",
+        "name": "Default Functionalities",
+        "category": "AutoComplete",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/autocomplete/default"
+        },
+        "uid": "0",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Default Functionalities"
+    },
+    {
+        "path": ":theme/autocomplete/groupingicon",
+        "order": "01",
+        "name": "Grouping and Icons",
+        "category": "AutoComplete",
+        "data": {
+            "sample-name": "Grouping and Icons",
+            "data-path": "/:theme/autocomplete/groupingicon"
+        },
+        "uid": "1",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Grouping and Icons"
+    },
+    {
+        "path": ":theme/autocomplete/databinding",
+        "order": "01",
+        "name": "Data Binding",
+        "category": "AutoComplete",
+        "data": {
+            "sample-name": "Data Binding",
+            "data-path": "/:theme/autocomplete/databinding"
+        },
+        "uid": "2",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Data Binding"
+    },
+    {
+        "path": ":theme/autocomplete/template",
+        "order": "01",
+        "name": "Template",
+        "category": "AutoComplete",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/autocomplete/template"
+        },
+        "uid": "3",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Template"
+    },
+    {
+        "path": ":theme/autocomplete/highlight",
+        "order": "01",
+        "name": "Highlight",
+        "category": "AutoComplete",
+        "data": {
+            "sample-name": "Highlight",
+            "data-path": "/:theme/autocomplete/highlight"
+        },
+        "uid": "4",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Highlight"
+    },
+    {
+        "path": ":theme/autocomplete/customfiltering",
+        "order": "01",
+        "name": "Custom Filtering",
+        "category": "AutoComplete",
+        "data": {
+            "sample-name": "Custom Filtering",
+            "data-path": "/:theme/autocomplete/customfiltering"
+        },
+        "uid": "5",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Custom Filtering"
+    },
+    {
+        "path": ":theme/autocomplete/diacriticsfiltering",
+        "order": "01",
+        "name": "Diacritics Filtering",
+        "category": "AutoComplete",
+        "data": {
+            "sample-name": "Diacritics Filtering",
+            "data-path": "/:theme/autocomplete/diacriticsfiltering"
+        },
+        "uid": "6",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Diacritics Filtering"
+    },
+    {
+        "path": ":theme/autocomplete/templatedriven",
+        "order": "02",
+        "name": "Template Driven",
+        "category": "Form Support",
+        "data": {
+            "sample-name": "Template Driven",
+            "data-path": "/:theme/autocomplete/templatedriven"
+        },
+        "uid": "7",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Template Driven"
+    },
+    {
+        "path": ":theme/autocomplete/reactiveform",
+        "order": "02",
+        "name": "Reactive Form",
+        "category": "Form Support",
+        "data": {
+            "sample-name": "Reactive Form",
+            "data-path": "/:theme/autocomplete/reactiveform"
+        },
+        "uid": "8",
+        "cName": "AutoComplete",
+        "searchValue": "AutoComplete Reactive Form"
+    },
+    {
+        "path": ":theme/multiselect/default",
+        "name": "Default Functionalities",
+        "category": "MultiSelect",
+        "order": "01",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/multiselect/default"
+        },
+        "uid": "0",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Default Functionalities"
+    },
+    {
+        "path": ":theme/multiselect/databinding",
+        "name": "Data Binding",
+        "order": "01",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "Data Binding",
+            "data-path": "/:theme/multiselect/databinding"
+        },
+        "uid": "1",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Data Binding"
+    },
+    {
+        "path": ":theme/multiselect/grouping",
+        "name": "Grouping",
+        "order": "01",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "Grouping",
+            "data-path": "/:theme/multiselect/grouping"
+        },
+        "uid": "2",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Grouping"
+    },
+    {
+        "path": ":theme/multiselect/template",
+        "name": "Template",
+        "order": "01",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/multiselect/template"
+        },
+        "uid": "3",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Template"
+    },
+    {
+        "path": ":theme/multiselect/filtering",
+        "name": "Filtering",
+        "order": "01",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "Filtering",
+            "data-path": "/:theme/multiselect/filtering"
+        },
+        "uid": "4",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Filtering"
+    },
+    {
+        "path": ":theme/multiselect/customtag",
+        "name": "Custom Values",
+        "order": "01",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "Custom Values",
+            "data-path": "/:theme/multiselect/customtag"
+        },
+        "uid": "5",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Custom Values"
+    },
+    {
+        "path": ":theme/multiselect/chipcustomization",
+        "order": "01",
+        "name": "Chip Customization",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "Chip Customization",
+            "data-path": "/:theme/multiselect/chipcustomization"
+        },
+        "uid": "6",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Chip Customization"
+    },
+    {
+        "path": ":theme/multiselect/diacriticsfiltering",
+        "order": "01",
+        "name": "Diacritics Filtering",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "Diacritics Filtering",
+            "data-path": "/:theme/multiselect/diacriticsfiltering"
+        },
+        "uid": "7",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Diacritics Filtering"
+    },
+    {
+        "path": ":theme/multiselect/checkbox",
+        "order": "01",
+        "name": "CheckBox",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "CheckBox",
+            "data-path": "/:theme/multiselect/checkbox"
+        },
+        "uid": "8",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect CheckBox"
+    },
+    {
+        "path": ":theme/multiselect/selectionlimit",
+        "order": "01",
+        "name": "Selection Limit",
+        "category": "MultiSelect",
+        "data": {
+            "sample-name": "Selection Limit",
+            "data-path": "/:theme/multiselect/selectionlimit"
+        },
+        "uid": "9",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Selection Limit"
+    },
+    {
+        "path": ":theme/multiselect/templatedriven",
+        "order": "02",
+        "name": "Template Driven",
+        "category": "Form Support",
+        "data": {
+            "sample-name": "Template Driven",
+            "data-path": "/:theme/multiselect/templatedriven"
+        },
+        "uid": "10",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Template Driven"
+    },
+    {
+        "path": ":theme/multiselect/reactiveform",
+        "order": "02",
+        "name": "Reactive Form",
+        "category": "Form Support",
+        "data": {
+            "sample-name": "Reactive Form",
+            "data-path": "/:theme/multiselect/reactiveform"
+        },
+        "uid": "11",
+        "cName": "MultiSelect",
+        "searchValue": "MultiSelect Reactive Form"
+    },
+    {
+        "path": ":theme/timepicker/default",
+        "name": "Default Functionalities",
+        "category": "TimePicker",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/timepicker/default"
+        },
+        "uid": "0",
+        "cName": "TimePicker",
+        "searchValue": "TimePicker Default Functionalities"
+    },
+    {
+        "path": ":theme/timepicker/range",
+        "name": "Time Range",
+        "category": "TimePicker",
+        "data": {
+            "sample-name": "Time Range",
+            "data-path": "/:theme/timepicker/range"
+        },
+        "uid": "1",
+        "cName": "TimePicker",
+        "searchValue": "TimePicker Time Range"
+    },
+    {
+        "path": ":theme/timepicker/format",
+        "name": "Format",
+        "category": "TimePicker",
+        "data": {
+            "sample-name": "Format",
+            "data-path": "/:theme/timepicker/format"
+        },
+        "uid": "2",
+        "cName": "TimePicker",
+        "searchValue": "TimePicker Format"
+    },
+    {
+        "path": ":theme/timepicker/list-formatting",
+        "name": "Time Duration",
+        "category": "TimePicker",
+        "type": "new",
+        "data": {
+            "sample-name": "Time Duration",
+            "data-path": "/:theme/timepicker/list-formatting"
+        },
+        "uid": "3",
+        "cName": "TimePicker",
+        "searchValue": "TimePicker Time Duration"
+    },
+    {
+        "path": ":theme/numerictextbox/default",
+        "name": "Default Functionalities",
+        "category": "NumericTextBox",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/numerictextbox/default"
+        },
+        "uid": "0",
+        "cName": "NumericTextBox",
+        "searchValue": "NumericTextBox Default Functionalities"
+    },
+    {
+        "path": ":theme/numerictextbox/range",
+        "name": "Range Validation",
+        "category": "NumericTextBox",
+        "data": {
+            "sample-name": "Range Validation",
+            "data-path": "/:theme/numerictextbox/range"
+        },
+        "uid": "1",
+        "cName": "NumericTextBox",
+        "searchValue": "NumericTextBox Range Validation"
+    },
+    {
+        "path": ":theme/numerictextbox/format",
+        "name": "Custom Format",
+        "category": "NumericTextBox",
+        "data": {
+            "sample-name": "Custom Format",
+            "data-path": "/:theme/numerictextbox/format"
+        },
+        "uid": "2",
+        "cName": "NumericTextBox",
+        "searchValue": "NumericTextBox Custom Format"
+    },
+    {
+        "path": ":theme/numerictextbox/restrict",
+        "name": "Restrict Decimals",
+        "category": "NumericTextBox",
+        "data": {
+            "sample-name": "Restrict Decimals",
+            "data-path": "/:theme/numerictextbox/restrict"
+        },
+        "uid": "3",
+        "cName": "NumericTextBox",
+        "searchValue": "NumericTextBox Restrict Decimals"
+    },
+    {
+        "path": ":theme/slider/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "Slider",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/slider/default"
+        },
+        "uid": "0",
+        "cName": "Slider",
+        "searchValue": "Slider Default Functionalities"
+    },
+    {
+        "path": ":theme/slider/ticks",
+        "name": "Ticks",
+        "order": "01",
+        "category": "Slider",
+        "data": {
+            "sample-name": "Ticks",
+            "data-path": "/:theme/slider/ticks"
+        },
+        "uid": "1",
+        "cName": "Slider",
+        "searchValue": "Slider Ticks"
+    },
+    {
+        "path": ":theme/slider/tooltip",
+        "name": "Tooltip",
+        "order": "01",
+        "category": "Slider",
+        "type": "update",
+        "data": {
+            "sample-name": "Tooltip",
+            "data-path": "/:theme/slider/tooltip"
+        },
+        "uid": "2",
+        "cName": "Slider",
+        "searchValue": "Slider Tooltip"
+    },
+    {
+        "path": ":theme/slider/orientation",
+        "name": "Vertical Orientation",
+        "order": "01",
+        "category": "Slider",
+        "type": "update",
+        "data": {
+            "sample-name": "Vertical Orientation",
+            "data-path": "/:theme/slider/orientation"
+        },
+        "uid": "3",
+        "cName": "Slider",
+        "searchValue": "Slider Vertical Orientation"
+    },
+    {
+        "path": ":theme/slider/format",
+        "name": "Formatting",
+        "order": "01",
+        "category": "Slider",
+        "data": {
+            "sample-name": "Formatting",
+            "data-path": "/:theme/slider/format"
+        },
+        "uid": "4",
+        "cName": "Slider",
+        "searchValue": "Slider Formatting"
+    },
+    {
+        "path": ":theme/slider/limits",
+        "name": "Limits",
+        "order": "01",
+        "category": "Slider",
+        "type": "new",
+        "data": {
+            "sample-name": "Limits",
+            "data-path": "/:theme/slider/limits"
+        },
+        "uid": "5",
+        "cName": "Slider",
+        "searchValue": "Slider Limits"
+    },
+    {
+        "path": ":theme/slider/api",
+        "name": "API",
+        "order": "01",
+        "category": "Slider",
+        "data": {
+            "sample-name": "API",
+            "data-path": "/:theme/slider/api"
+        },
+        "uid": "6",
+        "cName": "Slider",
+        "searchValue": "Slider API"
+    },
+    {
+        "path": ":theme/slider/events",
+        "name": "Events",
+        "order": "01",
+        "category": "Slider",
+        "data": {
+            "sample-name": "Events",
+            "data-path": "/:theme/slider/events"
+        },
+        "uid": "7",
+        "cName": "Slider",
+        "searchValue": "Slider Events"
+    },
+    {
+        "path": ":theme/slider/thumb-customization",
+        "name": "Thumb",
+        "order": "02",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Thumb",
+            "data-path": "/:theme/slider/thumb-customization"
+        },
+        "uid": "8",
+        "cName": "Slider",
+        "searchValue": "Slider Thumb"
+    },
+    {
+        "path": ":theme/slider/selection-bar-customization",
+        "name": "Bar",
+        "order": "02",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Bar",
+            "data-path": "/:theme/slider/selection-bar-customization"
+        },
+        "uid": "9",
+        "cName": "Slider",
+        "searchValue": "Slider Bar"
+    },
+    {
+        "path": ":theme/slider/ticks-customization",
+        "name": "Ticks",
+        "order": "02",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Ticks",
+            "data-path": "/:theme/slider/ticks-customization"
+        },
+        "uid": "10",
+        "cName": "Slider",
+        "searchValue": "Slider Ticks"
+    },
+    {
+        "path": ":theme/slider/tooltip-customization",
+        "name": "Tooltip",
+        "order": "02",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Tooltip",
+            "data-path": "/:theme/slider/tooltip-customization"
+        },
+        "uid": "11",
+        "cName": "Slider",
+        "searchValue": "Slider Tooltip"
+    },
+    {
+        "path": ":theme/slider/azure-pricing",
+        "name": "Cloud Pricing",
+        "order": "03",
+        "category": "Use Case",
+        "data": {
+            "sample-name": "Cloud Pricing",
+            "data-path": "/:theme/slider/azure-pricing"
+        },
+        "uid": "12",
+        "cName": "Slider",
+        "searchValue": "Slider Cloud Pricing"
+    },
+    {
+        "path": ":theme/uploader/default",
+        "name": "Default Functionalities",
+        "category": "Uploader",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/uploader/default"
+        },
+        "uid": "0",
+        "cName": "Uploader",
+        "searchValue": "Uploader Default Functionalities"
+    },
+    {
+        "path": ":theme/uploader/chunk-upload",
+        "name": "Chunk Upload",
+        "category": "Uploader",
+        "type": "new",
+        "data": {
+            "sample-name": "Chunk Upload",
+            "data-path": "/:theme/uploader/chunk-upload"
+        },
+        "uid": "1",
+        "cName": "Uploader",
+        "searchValue": "Uploader Chunk Upload"
+    },
+    {
+        "path": ":theme/uploader/template",
+        "name": "Template",
+        "category": "Uploader",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/uploader/template"
+        },
+        "uid": "2",
+        "cName": "Uploader",
+        "searchValue": "Uploader Template"
+    },
+    {
+        "path": ":theme/uploader/preloadfiles",
+        "name": "Preload Files",
+        "category": "Uploader",
+        "data": {
+            "sample-name": "Preload Files",
+            "data-path": "/:theme/uploader/preloadfiles"
+        },
+        "uid": "3",
+        "cName": "Uploader",
+        "searchValue": "Uploader Preload Files"
+    },
+    {
+        "path": ":theme/uploader/validation",
+        "name": "Validation",
+        "category": "Uploader",
+        "data": {
+            "sample-name": "Validation",
+            "data-path": "/:theme/uploader/validation"
+        },
+        "uid": "4",
+        "cName": "Uploader",
+        "searchValue": "Uploader Validation"
+    },
+    {
+        "path": ":theme/uploader/preview",
+        "name": "Image Preview",
+        "category": "Uploader",
+        "type": "update",
+        "data": {
+            "sample-name": "Image Preview",
+            "data-path": "/:theme/uploader/preview"
+        },
+        "uid": "5",
+        "cName": "Uploader",
+        "searchValue": "Uploader Image Preview"
+    },
+    {
+        "path": ":theme/uploader/form-support",
+        "name": "Form Support",
+        "category": "Uploader",
+        "type": "new",
+        "data": {
+            "sample-name": "Form Support",
+            "data-path": "/:theme/uploader/form-support"
+        },
+        "uid": "6",
+        "cName": "Uploader",
+        "searchValue": "Uploader Form Support"
+    },
+    {
+        "path": ":theme/uploader/drop-area",
+        "name": "Custom Drop Area",
+        "category": "Uploader",
+        "type": "new",
+        "data": {
+            "sample-name": "Custom Drop Area",
+            "data-path": "/:theme/uploader/drop-area"
+        },
+        "uid": "7",
+        "cName": "Uploader",
+        "searchValue": "Uploader Custom Drop Area"
+    },
+    {
+        "path": ":theme/documenteditor/default",
+        "name": "Default functionalities",
+        "order": "01",
+        "category": "DocumentEditor",
+        "data": {
+            "sample-name": "Default functionalities",
+            "data-path": "/:theme/documenteditor/default"
+        },
+        "uid": "0",
+        "cName": "DocumentEditor",
+        "searchValue": "DocumentEditor Default functionalities"
+    },
+    {
+        "path": ":theme/documenteditor/print",
+        "name": "Print",
+        "order": "01",
+        "category": "DocumentEditor",
+        "data": {
+            "sample-name": "Print",
+            "data-path": "/:theme/documenteditor/print"
+        },
+        "uid": "1",
+        "cName": "DocumentEditor",
+        "searchValue": "DocumentEditor Print"
+    },
+    {
+        "path": ":theme/textboxes/default",
+        "name": "Default Functionalities",
+        "category": "TextBoxes",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/textboxes/default"
+        },
+        "uid": "0",
+        "cName": "TextBoxes",
+        "searchValue": "TextBoxes Default Functionalities"
+    },
+    {
+        "path": ":theme/maskedtextbox/default",
+        "name": "Default Functionalities",
+        "category": "MaskedTextBox",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/maskedtextbox/default"
+        },
+        "uid": "0",
+        "cName": "MaskedTextBox",
+        "searchValue": "MaskedTextBox Default Functionalities"
+    },
+    {
+        "path": ":theme/maskedtextbox/custommask",
+        "name": "Custom Mask",
+        "category": "MaskedTextBox",
+        "data": {
+            "sample-name": "Custom Mask",
+            "data-path": "/:theme/maskedtextbox/custommask"
+        },
+        "uid": "1",
+        "cName": "MaskedTextBox",
+        "searchValue": "MaskedTextBox Custom Mask"
+    },
+    {
+        "path": ":theme/maskedtextbox/formats",
+        "name": "Formats",
+        "category": "MaskedTextBox",
+        "data": {
+            "sample-name": "Formats",
+            "data-path": "/:theme/maskedtextbox/formats"
+        },
+        "uid": "2",
+        "cName": "MaskedTextBox",
+        "searchValue": "MaskedTextBox Formats"
+    },
+    {
+        "path": ":theme/colorpicker/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "ColorPicker",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/colorpicker/default"
+        },
+        "uid": "0",
+        "cName": "ColorPicker",
+        "searchValue": "ColorPicker Default Functionalities"
+    },
+    {
+        "path": ":theme/colorpicker/inline",
+        "name": "Inline Mode",
+        "order": "01",
+        "category": "ColorPicker",
+        "data": {
+            "sample-name": "Inline Mode",
+            "data-path": "/:theme/colorpicker/inline"
+        },
+        "uid": "1",
+        "cName": "ColorPicker",
+        "searchValue": "ColorPicker Inline Mode"
+    },
+    {
+        "path": ":theme/colorpicker/custom",
+        "name": "Custom Palettes",
+        "order": "01",
+        "category": "ColorPicker",
+        "data": {
+            "sample-name": "Custom Palettes",
+            "data-path": "/:theme/colorpicker/custom"
+        },
+        "uid": "2",
+        "cName": "ColorPicker",
+        "searchValue": "ColorPicker Custom Palettes"
+    },
+    {
+        "path": ":theme/colorpicker/api",
+        "name": "API",
+        "order": "01",
+        "category": "ColorPicker",
+        "data": {
+            "sample-name": "API",
+            "data-path": "/:theme/colorpicker/api"
+        },
+        "uid": "3",
+        "cName": "ColorPicker",
+        "searchValue": "ColorPicker API"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-tools",
+        "name": "Overview",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "Overview",
+            "data-path": "/:theme/rte/rich-text-editor-tools"
+        },
+        "uid": "0",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Overview"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/rte/rich-text-editor"
+        },
+        "uid": "1",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Default Functionalities"
+    },
+    {
+        "path": ":theme/rte/image",
+        "name": "Image",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "Image",
+            "data-path": "/:theme/rte/image"
+        },
+        "uid": "2",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Image"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-inline",
+        "name": "Inline",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "Inline",
+            "data-path": "/:theme/rte/rich-text-editor-inline"
+        },
+        "uid": "3",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Inline"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-iframe",
+        "name": "IFrame",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "IFrame",
+            "data-path": "/:theme/rte/rich-text-editor-iframe"
+        },
+        "uid": "4",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor IFrame"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-print",
+        "name": "Print",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "Print",
+            "data-path": "/:theme/rte/rich-text-editor-print"
+        },
+        "uid": "5",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Print"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-ajax-load",
+        "name": "Ajax Content",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "Ajax Content",
+            "data-path": "/:theme/rte/rich-text-editor-ajax-load"
+        },
+        "uid": "6",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Ajax Content"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-api",
+        "name": "API",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "API",
+            "data-path": "/:theme/rte/rich-text-editor-api"
+        },
+        "uid": "7",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor API"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-client-side-events",
+        "name": "Events",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "Events",
+            "data-path": "/:theme/rte/rich-text-editor-client-side-events"
+        },
+        "uid": "8",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Events"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-blog-posting",
+        "name": "Use Case",
+        "order": "01",
+        "category": "RichTextEditor",
+        "data": {
+            "sample-name": "Use Case",
+            "data-path": "/:theme/rte/rich-text-editor-blog-posting"
+        },
+        "uid": "9",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Use Case"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-types",
+        "name": "Type",
+        "order": "03",
+        "category": "Toolbar",
+        "data": {
+            "sample-name": "Type",
+            "data-path": "/:theme/rte/rich-text-editor-types"
+        },
+        "uid": "10",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Type"
+    },
+    {
+        "path": ":theme/rte/rich-text-editor-custom-toolbar",
+        "name": "Custom Tool",
+        "order": "03",
+        "category": "Toolbar",
+        "data": {
+            "sample-name": "Custom Tool",
+            "data-path": "/:theme/rte/rich-text-editor-custom-toolbar"
+        },
+        "uid": "11",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Custom Tool"
+    },
+    {
+        "path": ":theme/rte/markdown-editor",
+        "name": "Overview",
+        "order": "04",
+        "category": "Markdown Editor",
+        "data": {
+            "sample-name": "Overview",
+            "data-path": "/:theme/rte/markdown-editor"
+        },
+        "uid": "12",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Overview"
+    },
+    {
+        "path": ":theme/rte/markdown-editor-preview",
+        "name": "Preview",
+        "order": "04",
+        "category": "Markdown Editor",
+        "data": {
+            "sample-name": "Preview",
+            "data-path": "/:theme/rte/markdown-editor-preview"
+        },
+        "uid": "13",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Preview"
+    },
+    {
+        "path": ":theme/rte/markdown-editor-custom-format",
+        "name": "Custom Format",
+        "order": "04",
+        "category": "Markdown Editor",
+        "data": {
+            "sample-name": "Custom Format",
+            "data-path": "/:theme/rte/markdown-editor-custom-format"
+        },
+        "uid": "14",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Custom Format"
+    },
+    {
+        "path": ":theme/rte/reactiveform",
+        "name": "Reactive Form",
+        "order": "07",
+        "category": "Forms",
+        "data": {
+            "sample-name": "Reactive Form",
+            "data-path": "/:theme/rte/reactiveform"
+        },
+        "uid": "15",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Reactive Form"
+    },
+    {
+        "path": ":theme/rte/templatedriven",
+        "name": "Template Driven",
+        "order": "07",
+        "category": "Forms",
+        "data": {
+            "sample-name": "Template Driven",
+            "data-path": "/:theme/rte/templatedriven"
+        },
+        "uid": "16",
+        "cName": "RichTextEditor",
+        "searchValue": "RichTextEditor Template Driven"
+    },
+    {
+        "path": ":theme/listview/default",
+        "order": "01",
+        "name": "Default Functionalities",
+        "category": "ListView",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/listview/default"
+        },
+        "uid": "0",
+        "cName": "ListView",
+        "searchValue": "ListView Default Functionalities"
+    },
+    {
+        "path": ":theme/listview/remote-list",
+        "order": "01",
+        "name": "Remote List",
+        "category": "ListView",
+        "data": {
+            "sample-name": "Remote List",
+            "data-path": "/:theme/listview/remote-list"
+        },
+        "uid": "1",
+        "cName": "ListView",
+        "searchValue": "ListView Remote List"
+    },
+    {
+        "path": ":theme/listview/checklist",
+        "order": "01",
+        "name": "Checklist",
+        "category": "ListView",
+        "data": {
+            "sample-name": "Checklist",
+            "data-path": "/:theme/listview/checklist"
+        },
+        "uid": "2",
+        "cName": "ListView",
+        "searchValue": "ListView Checklist"
+    },
+    {
+        "path": ":theme/listview/nested-list",
+        "order": "01",
+        "name": "Nested List",
+        "category": "ListView",
+        "data": {
+            "sample-name": "Nested List",
+            "data-path": "/:theme/listview/nested-list"
+        },
+        "uid": "3",
+        "cName": "ListView",
+        "searchValue": "ListView Nested List"
+    },
+    {
+        "path": ":theme/listview/virtualization",
+        "order": "01",
+        "name": "Virtualization",
+        "category": "ListView",
+        "type": "new",
+        "data": {
+            "sample-name": "Virtualization",
+            "data-path": "/:theme/listview/virtualization"
+        },
+        "uid": "4",
+        "cName": "ListView",
+        "searchValue": "ListView Virtualization"
+    },
+    {
+        "path": ":theme/listview/group-template",
+        "order": "02",
+        "name": "Group Template",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Group Template",
+            "data-path": "/:theme/listview/group-template"
+        },
+        "uid": "5",
+        "cName": "ListView",
+        "searchValue": "ListView Group Template"
+    },
+    {
+        "path": ":theme/listview/template",
+        "name": "Template",
+        "order": "02",
+        "category": "Customization",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/listview/template"
+        },
+        "uid": "6",
+        "cName": "ListView",
+        "searchValue": "ListView Template"
+    },
+    {
+        "path": ":theme/listview/call-history",
+        "name": "Call History",
+        "order": "03",
+        "category": "Use Case",
+        "data": {
+            "sample-name": "Call History",
+            "data-path": "/:theme/listview/call-history"
+        },
+        "uid": "7",
+        "cName": "ListView",
+        "searchValue": "ListView Call History"
+    },
+    {
+        "path": ":theme/dialog/default",
+        "name": "Default Functionalities",
+        "category": "Dialog",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/dialog/default"
+        },
+        "uid": "0",
+        "cName": "Dialog",
+        "searchValue": "Dialog Default Functionalities"
+    },
+    {
+        "path": ":theme/dialog/basic",
+        "name": "Custom Dialogs",
+        "category": "Dialog",
+        "data": {
+            "sample-name": "Custom Dialogs",
+            "data-path": "/:theme/dialog/basic"
+        },
+        "uid": "1",
+        "cName": "Dialog",
+        "searchValue": "Dialog Custom Dialogs"
+    },
+    {
+        "path": ":theme/dialog/modal",
+        "name": "Modal",
+        "category": "Dialog",
+        "data": {
+            "sample-name": "Modal",
+            "data-path": "/:theme/dialog/modal"
+        },
+        "uid": "2",
+        "cName": "Dialog",
+        "searchValue": "Dialog Modal"
+    },
+    {
+        "path": ":theme/dialog/template",
+        "name": "Template",
+        "category": "Dialog",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/dialog/template"
+        },
+        "uid": "3",
+        "cName": "Dialog",
+        "searchValue": "Dialog Template"
+    },
+    {
+        "path": ":theme/dialog/ajax",
+        "name": "Ajax Content",
+        "category": "Dialog",
+        "data": {
+            "sample-name": "Ajax Content",
+            "data-path": "/:theme/dialog/ajax"
+        },
+        "uid": "4",
+        "cName": "Dialog",
+        "searchValue": "Dialog Ajax Content"
+    },
+    {
+        "path": ":theme/dialog/draggable",
+        "name": "Draggable",
+        "category": "Dialog",
+        "type": "new",
+        "data": {
+            "sample-name": "Draggable",
+            "data-path": "/:theme/dialog/draggable"
+        },
+        "uid": "5",
+        "cName": "Dialog",
+        "searchValue": "Dialog Draggable"
+    },
+    {
+        "path": ":theme/dialog/positioning",
+        "name": "Positioning",
+        "category": "Dialog",
+        "type": "new",
+        "data": {
+            "sample-name": "Positioning",
+            "data-path": "/:theme/dialog/positioning"
+        },
+        "uid": "6",
+        "cName": "Dialog",
+        "searchValue": "Dialog Positioning"
+    },
+    {
+        "path": ":theme/dialog/animation",
+        "name": "Animation",
+        "category": "Dialog",
+        "type": "new",
+        "data": {
+            "sample-name": "Animation",
+            "data-path": "/:theme/dialog/animation"
+        },
+        "uid": "7",
+        "cName": "Dialog",
+        "searchValue": "Dialog Animation"
+    },
+    {
+        "path": ":theme/dialog/multiple-dialogs",
+        "name": "Multiple Dialogs",
+        "category": "Dialog",
+        "type": "new",
+        "data": {
+            "sample-name": "Multiple Dialogs",
+            "data-path": "/:theme/dialog/multiple-dialogs"
+        },
+        "uid": "8",
+        "cName": "Dialog",
+        "searchValue": "Dialog Multiple Dialogs"
+    },
+    {
+        "path": ":theme/tooltip/default",
+        "name": "Default Functionalities",
+        "category": "Tooltip",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/tooltip/default"
+        },
+        "uid": "0",
+        "cName": "Tooltip",
+        "searchValue": "Tooltip Default Functionalities"
+    },
+    {
+        "path": ":theme/tooltip/template",
+        "name": "Template",
+        "category": "Tooltip",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/tooltip/template"
+        },
+        "uid": "1",
+        "cName": "Tooltip",
+        "searchValue": "Tooltip Template"
+    },
+    {
+        "path": ":theme/tooltip/ajaxcontent",
+        "name": "Ajax Content",
+        "category": "Tooltip",
+        "data": {
+            "sample-name": "Ajax Content",
+            "data-path": "/:theme/tooltip/ajaxcontent"
+        },
+        "uid": "2",
+        "cName": "Tooltip",
+        "searchValue": "Tooltip Ajax Content"
+    },
+    {
+        "path": ":theme/tooltip/smartposition",
+        "name": "Smart Positioning",
+        "category": "Tooltip",
+        "data": {
+            "sample-name": "Smart Positioning",
+            "data-path": "/:theme/tooltip/smartposition"
+        },
+        "uid": "3",
+        "cName": "Tooltip",
+        "searchValue": "Tooltip Smart Positioning"
+    },
+    {
+        "path": ":theme/avatar/default",
+        "order": "01",
+        "name": "Default",
+        "category": "Avatar",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/avatar/default"
+        },
+        "uid": "0",
+        "cName": "Avatar",
+        "searchValue": "Avatar Default"
+    },
+    {
+        "path": ":theme/avatar/types",
+        "order": "01",
+        "name": "Types",
+        "category": "Avatar",
+        "data": {
+            "sample-name": "Types",
+            "data-path": "/:theme/avatar/types"
+        },
+        "uid": "1",
+        "cName": "Avatar",
+        "searchValue": "Avatar Types"
+    },
+    {
+        "path": ":theme/avatar/badge",
+        "order": "02",
+        "name": "Badge",
+        "category": "Integration",
+        "data": {
+            "sample-name": "Badge",
+            "data-path": "/:theme/avatar/badge"
+        },
+        "uid": "2",
+        "cName": "Avatar",
+        "searchValue": "Avatar Badge"
+    },
+    {
+        "path": ":theme/avatar/listview",
+        "order": "02",
+        "name": "Listview",
+        "category": "Integration",
+        "data": {
+            "sample-name": "Listview",
+            "data-path": "/:theme/avatar/listview"
+        },
+        "uid": "3",
+        "cName": "Avatar",
+        "searchValue": "Avatar Listview"
+    },
+    {
+        "path": ":theme/avatar/card",
+        "order": "02",
+        "name": "Card",
+        "category": "Integration",
+        "data": {
+            "sample-name": "Card",
+            "data-path": "/:theme/avatar/card"
+        },
+        "uid": "4",
+        "cName": "Avatar",
+        "searchValue": "Avatar Card"
+    },
+    {
+        "path": ":theme/card/basic",
+        "name": "Basic Card",
+        "category": "Card",
+        "data": {
+            "sample-name": "Basic Card",
+            "data-path": "/:theme/card/basic"
+        },
+        "uid": "0",
+        "cName": "Card",
+        "searchValue": "Card Basic Card"
+    },
+    {
+        "path": ":theme/card/vertical",
+        "name": "Vertical Card",
+        "category": "Card",
+        "data": {
+            "sample-name": "Vertical Card",
+            "data-path": "/:theme/card/vertical"
+        },
+        "uid": "1",
+        "cName": "Card",
+        "searchValue": "Card Vertical Card"
+    },
+    {
+        "path": ":theme/card/horizontal",
+        "name": "Horizontal Card",
+        "category": "Card",
+        "data": {
+            "sample-name": "Horizontal Card",
+            "data-path": "/:theme/card/horizontal"
+        },
+        "uid": "2",
+        "cName": "Card",
+        "searchValue": "Card Horizontal Card"
+    },
+    {
+        "path": ":theme/card/swipeable",
+        "name": "Swipeable Card",
+        "category": "Card",
+        "data": {
+            "sample-name": "Swipeable Card",
+            "data-path": "/:theme/card/swipeable"
+        },
+        "uid": "3",
+        "cName": "Card",
+        "searchValue": "Card Swipeable Card"
+    },
+    {
+        "path": ":theme/card/flip",
+        "name": "Flip Card",
+        "category": "Card",
+        "data": {
+            "sample-name": "Flip Card",
+            "data-path": "/:theme/card/flip"
+        },
+        "uid": "4",
+        "cName": "Card",
+        "searchValue": "Card Flip Card"
+    },
+    {
+        "path": ":theme/card/reveal",
+        "name": "Reveal Card",
+        "category": "Card",
+        "data": {
+            "sample-name": "Reveal Card",
+            "data-path": "/:theme/card/reveal"
+        },
+        "uid": "5",
+        "cName": "Card",
+        "searchValue": "Card Reveal Card"
+    },
+    {
+        "path": ":theme/card/tile",
+        "name": "Tile View",
+        "category": "Card",
+        "data": {
+            "sample-name": "Tile View",
+            "data-path": "/:theme/card/tile"
+        },
+        "uid": "6",
+        "cName": "Card",
+        "searchValue": "Card Tile View"
+    },
+    {
+        "path": ":theme/badge/default",
+        "order": "01",
+        "name": "Default",
+        "category": "Badge",
+        "data": {
+            "sample-name": "Default",
+            "data-path": "/:theme/badge/default"
+        },
+        "uid": "0",
+        "cName": "Badge",
+        "searchValue": "Badge Default"
+    },
+    {
+        "path": ":theme/badge/types",
+        "order": "01",
+        "name": "Types",
+        "category": "Badge",
+        "data": {
+            "sample-name": "Types",
+            "data-path": "/:theme/badge/types"
+        },
+        "uid": "1",
+        "cName": "Badge",
+        "searchValue": "Badge Types"
+    },
+    {
+        "path": ":theme/badge/notification",
+        "order": "01",
+        "name": "Notification",
+        "category": "Badge",
+        "data": {
+            "sample-name": "Notification",
+            "data-path": "/:theme/badge/notification"
+        },
+        "uid": "2",
+        "cName": "Badge",
+        "searchValue": "Badge Notification"
+    },
+    {
+        "path": ":theme/badge/listview",
+        "order": "02",
+        "name": "ListView",
+        "category": "Integration",
+        "data": {
+            "sample-name": "ListView",
+            "data-path": "/:theme/badge/listview"
+        },
+        "uid": "3",
+        "cName": "Badge",
+        "searchValue": "Badge ListView"
+    },
+    {
+        "path": ":theme/badge/accordion",
+        "order": "02",
+        "name": "Accordion",
+        "category": "Integration",
+        "data": {
+            "sample-name": "Accordion",
+            "data-path": "/:theme/badge/accordion"
+        },
+        "uid": "4",
+        "cName": "Badge",
+        "searchValue": "Badge Accordion"
+    },
+    {
+        "path": ":theme/badge/toolbar",
+        "order": "02",
+        "name": "Toolbar",
+        "category": "Integration",
+        "data": {
+            "sample-name": "Toolbar",
+            "data-path": "/:theme/badge/toolbar"
+        },
+        "uid": "5",
+        "cName": "Badge",
+        "searchValue": "Badge Toolbar"
+    },
+    {
+        "path": ":theme/toast/default",
+        "order": "01",
+        "name": "Default Functionalities",
+        "category": "Toast",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/toast/default"
+        },
+        "uid": "0",
+        "cName": "Toast",
+        "searchValue": "Toast Default Functionalities"
+    },
+    {
+        "path": ":theme/toast/types",
+        "order": "01",
+        "name": "Types",
+        "category": "Toast",
+        "data": {
+            "sample-name": "Types",
+            "data-path": "/:theme/toast/types"
+        },
+        "uid": "1",
+        "cName": "Toast",
+        "searchValue": "Toast Types"
+    },
+    {
+        "path": ":theme/toast/template",
+        "order": "01",
+        "name": "Template",
+        "category": "Toast",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/toast/template"
+        },
+        "uid": "2",
+        "cName": "Toast",
+        "searchValue": "Toast Template"
+    },
+    {
+        "path": ":theme/toast/positions",
+        "order": "01",
+        "name": "Positions",
+        "category": "Toast",
+        "data": {
+            "sample-name": "Positions",
+            "data-path": "/:theme/toast/positions"
+        },
+        "uid": "3",
+        "cName": "Toast",
+        "searchValue": "Toast Positions"
+    },
+    {
+        "path": ":theme/toast/api",
+        "order": "01",
+        "name": "API",
+        "category": "Toast",
+        "data": {
+            "sample-name": "API",
+            "data-path": "/:theme/toast/api"
+        },
+        "uid": "4",
+        "cName": "Toast",
+        "searchValue": "Toast API"
+    },
+    {
+        "path": ":theme/contextmenu/default",
+        "name": "Default Functionalities",
+        "category": "ContextMenu",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/contextmenu/default"
+        },
+        "uid": "0",
+        "cName": "ContextMenu",
+        "searchValue": "ContextMenu Default Functionalities"
+    },
+    {
+        "path": ":theme/treeview/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "TreeView",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/treeview/default"
+        },
+        "uid": "0",
+        "cName": "TreeView",
+        "searchValue": "TreeView Default Functionalities"
+    },
+    {
+        "path": ":theme/treeview/icons",
+        "name": "Icons and Images",
+        "order": "01",
+        "category": "TreeView",
+        "data": {
+            "sample-name": "Icons and Images",
+            "data-path": "/:theme/treeview/icons"
+        },
+        "uid": "1",
+        "cName": "TreeView",
+        "searchValue": "TreeView Icons and Images"
+    },
+    {
+        "path": ":theme/treeview/checkbox",
+        "name": "Checkbox",
+        "order": "01",
+        "category": "TreeView",
+        "data": {
+            "sample-name": "Checkbox",
+            "data-path": "/:theme/treeview/checkbox"
+        },
+        "uid": "2",
+        "cName": "TreeView",
+        "searchValue": "TreeView Checkbox"
+    },
+    {
+        "path": ":theme/treeview/editing",
+        "name": "Node Editing",
+        "order": "01",
+        "category": "TreeView",
+        "data": {
+            "sample-name": "Node Editing",
+            "data-path": "/:theme/treeview/editing"
+        },
+        "uid": "3",
+        "cName": "TreeView",
+        "searchValue": "TreeView Node Editing"
+    },
+    {
+        "path": ":theme/treeview/multiselect",
+        "name": "Multiple Selection",
+        "order": "01",
+        "category": "TreeView",
+        "hideOnDevice": true,
+        "data": {
+            "sample-name": "Multiple Selection",
+            "data-path": "/:theme/treeview/multiselect"
+        },
+        "uid": "4",
+        "cName": "TreeView",
+        "searchValue": "TreeView Multiple Selection"
+    },
+    {
+        "path": ":theme/treeview/dragdrop",
+        "name": "Drag and Drop",
+        "order": "01",
+        "category": "TreeView",
+        "hideOnDevice": true,
+        "type": "update",
+        "data": {
+            "sample-name": "Drag and Drop",
+            "data-path": "/:theme/treeview/dragdrop"
+        },
+        "uid": "5",
+        "cName": "TreeView",
+        "searchValue": "TreeView Drag and Drop"
+    },
+    {
+        "path": ":theme/treeview/template",
+        "name": "Template",
+        "order": "01",
+        "category": "TreeView",
+        "type": "update",
+        "data": {
+            "sample-name": "Template",
+            "data-path": "/:theme/treeview/template"
+        },
+        "uid": "6",
+        "cName": "TreeView",
+        "searchValue": "TreeView Template"
+    },
+    {
+        "path": ":theme/treeview/rtl",
+        "name": "RTL",
+        "order": "01",
+        "category": "TreeView",
+        "data": {
+            "sample-name": "RTL",
+            "data-path": "/:theme/treeview/rtl"
+        },
+        "uid": "7",
+        "cName": "TreeView",
+        "searchValue": "TreeView RTL"
+    },
+    {
+        "path": ":theme/treeview/plaindata",
+        "name": "Local Data",
+        "order": "02",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Local Data",
+            "data-path": "/:theme/treeview/plaindata"
+        },
+        "uid": "8",
+        "cName": "TreeView",
+        "searchValue": "TreeView Local Data"
+    },
+    {
+        "path": ":theme/treeview/remotedata",
+        "name": "Remote Data",
+        "order": "02",
+        "category": "Data Binding",
+        "data": {
+            "sample-name": "Remote Data",
+            "data-path": "/:theme/treeview/remotedata"
+        },
+        "uid": "9",
+        "cName": "TreeView",
+        "searchValue": "TreeView Remote Data"
+    },
+    {
+        "path": ":theme/toolbar/default",
+        "name": "Default Functionalities",
+        "category": "Toolbar",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/toolbar/default"
+        },
+        "uid": "0",
+        "cName": "Toolbar",
+        "searchValue": "Toolbar Default Functionalities"
+    },
+    {
+        "path": ":theme/toolbar/popup",
+        "name": "Popup",
+        "category": "Toolbar",
+        "data": {
+            "sample-name": "Popup",
+            "data-path": "/:theme/toolbar/popup"
+        },
+        "uid": "1",
+        "cName": "Toolbar",
+        "searchValue": "Toolbar Popup"
+    },
+    {
+        "path": ":theme/toolbar/alignment",
+        "name": "Alignment",
+        "category": "Toolbar",
+        "data": {
+            "sample-name": "Alignment",
+            "data-path": "/:theme/toolbar/alignment"
+        },
+        "uid": "2",
+        "cName": "Toolbar",
+        "searchValue": "Toolbar Alignment"
+    },
+    {
+        "path": ":theme/toolbar/rtl",
+        "name": "RTL",
+        "category": "Toolbar",
+        "data": {
+            "sample-name": "RTL",
+            "data-path": "/:theme/toolbar/rtl"
+        },
+        "uid": "3",
+        "cName": "Toolbar",
+        "searchValue": "Toolbar RTL"
+    },
+    {
+        "path": ":theme/accordion/default",
+        "name": "Default Functionalities",
+        "category": "Accordion",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/accordion/default"
+        },
+        "uid": "0",
+        "cName": "Accordion",
+        "searchValue": "Accordion Default Functionalities"
+    },
+    {
+        "path": ":theme/accordion/ajax",
+        "name": "Ajax Content",
+        "category": "Accordion",
+        "data": {
+            "sample-name": "Ajax Content",
+            "data-path": "/:theme/accordion/ajax"
+        },
+        "uid": "1",
+        "cName": "Accordion",
+        "searchValue": "Accordion Ajax Content"
+    },
+    {
+        "path": ":theme/accordion/icon",
+        "name": "Icons",
+        "category": "Accordion",
+        "data": {
+            "sample-name": "Icons",
+            "data-path": "/:theme/accordion/icon"
+        },
+        "uid": "2",
+        "cName": "Accordion",
+        "searchValue": "Accordion Icons"
+    },
+    {
+        "path": ":theme/accordion/rtl",
+        "name": "RTL",
+        "category": "Accordion",
+        "data": {
+            "sample-name": "RTL",
+            "data-path": "/:theme/accordion/rtl"
+        },
+        "uid": "3",
+        "cName": "Accordion",
+        "searchValue": "Accordion RTL"
+    },
+    {
+        "path": ":theme/tab/default",
+        "name": "Default Functionalities",
+        "category": "Tab",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/tab/default"
+        },
+        "uid": "0",
+        "cName": "Tab",
+        "searchValue": "Tab Default Functionalities"
+    },
+    {
+        "path": ":theme/tab/orientation",
+        "name": "Orientation",
+        "category": "Tab",
+        "data": {
+            "sample-name": "Orientation",
+            "data-path": "/:theme/tab/orientation"
+        },
+        "uid": "1",
+        "cName": "Tab",
+        "searchValue": "Tab Orientation"
+    },
+    {
+        "path": ":theme/tab/responsivemodes",
+        "name": "Responsive Modes",
+        "category": "Tab",
+        "data": {
+            "sample-name": "Responsive Modes",
+            "data-path": "/:theme/tab/responsivemodes"
+        },
+        "uid": "2",
+        "cName": "Tab",
+        "searchValue": "Tab Responsive Modes"
+    },
+    {
+        "path": ":theme/tab/rtl",
+        "name": "RTL",
+        "category": "Tab",
+        "data": {
+            "sample-name": "RTL",
+            "data-path": "/:theme/tab/rtl"
+        },
+        "uid": "3",
+        "cName": "Tab",
+        "searchValue": "Tab RTL"
+    },
+    {
+        "path": ":theme/tab/wizard",
+        "name": "Wizard",
+        "category": "Tab",
+        "data": {
+            "sample-name": "Wizard",
+            "data-path": "/:theme/tab/wizard"
+        },
+        "uid": "4",
+        "cName": "Tab",
+        "searchValue": "Tab Wizard"
+    },
+    {
+        "path": ":theme/pager/default",
+        "name": "Default Functionalities",
+        "order": "01",
+        "category": "Pager",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/pager/default"
+        },
+        "uid": "0",
+        "cName": "Pager",
+        "searchValue": "Pager Default Functionalities"
+    },
+    {
+        "path": ":theme/pager/localization",
+        "name": "Localization",
+        "order": "01",
+        "category": "Pager",
+        "data": {
+            "sample-name": "Localization",
+            "data-path": "/:theme/pager/localization"
+        },
+        "uid": "1",
+        "cName": "Pager",
+        "searchValue": "Pager Localization"
+    },
+    {
+        "path": ":theme/pager/api",
+        "name": "API",
+        "order": "01",
+        "category": "Pager",
+        "data": {
+            "sample-name": "API",
+            "data-path": "/:theme/pager/api"
+        },
+        "uid": "2",
+        "cName": "Pager",
+        "searchValue": "Pager API"
+    },
+    {
+        "path": ":theme/sidebar/default",
+        "name": "Default Functionalities",
+        "category": "Sidebar",
+        "data": {
+            "sample-name": "Default Functionalities",
+            "data-path": "/:theme/sidebar/default"
+        },
+        "uid": "0",
+        "cName": "Sidebar",
+        "searchValue": "Sidebar Default Functionalities"
+    },
+    {
+        "path": ":theme/sidebar/dock",
+        "name": "Dock",
+        "category": "Sidebar",
+        "data": {
+            "sample-name": "Dock",
+            "data-path": "/:theme/sidebar/dock"
+        },
+        "uid": "1",
+        "cName": "Sidebar",
+        "searchValue": "Sidebar Dock"
+    },
+    {
+        "path": ":theme/sidebar/api",
+        "name": "API",
+        "category": "Sidebar",
+        "data": {
+            "sample-name": "API",
+            "data-path": "/:theme/sidebar/api"
+        },
+        "uid": "2",
+        "cName": "Sidebar",
+        "searchValue": "Sidebar API"
+    },
+    {
+        "path": ":theme/sidebar/sidebar-list",
+        "name": "Sidebar With ListView",
+        "category": "Sidebar",
+        "data": {
+            "sample-name": "Sidebar With ListView",
+            "data-path": "/:theme/sidebar/sidebar-list"
+        },
+        "uid": "3",
+        "cName": "Sidebar",
+        "searchValue": "Sidebar Sidebar With ListView"
+    }
+]

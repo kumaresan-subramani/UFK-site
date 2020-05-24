@@ -1,0 +1,5 @@
+.vscode/
+node_modules/
+landing-page/
+src/index.js
+src/index.min.js
