@@ -39,6 +39,7 @@
     "webpack-stream": "^4.0.0"
   },
   "scripts": {
+    "check": "gulp move",
     "build": "gulp scripts && gulp bundle && gulp js-minify",
     "ci-publish": "gulp publish"
   }
