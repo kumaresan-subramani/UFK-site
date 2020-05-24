@@ -109,7 +109,8 @@ gulp.task('beta-banner', function(done) {
     done();
 })
 
-gulp.task('ci-report', function(){
+gulp.task('move', function(){
+    shelljs.cp('-rf', './check.html', './public');
 })
 
 /* jshint strict: false */
